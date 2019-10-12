@@ -1,0 +1,76 @@
+## Tit for Tat
+
+*   Set Framework:
+    *   Prisoner’s Dilemma
+*   Why an eye for an eye is so powerful
+    *   Iterative Prisoner’s Dilemma
+        *   Judgement 196 in the Code of Hammurabi: If a superior man should blind the eye of another superior man, they shall blind his eye.
+    *   When an eye for an eye interacts with writing, then we preserve disputes forever.
+        *   Middle-East. Shia vs Sunni. Hinayana vs Mahanyana.
+*   Iterative Prisoner’s Dilemma with Forgiveness
+    *   The world is complex.
+    *   People aren’t perfect.
+    *   Hence, forgiveness is mandated for healthy society.
+    *   Examples:
+        *   Blood money
+        *   Hawaii puopuooa
+        *   Nanawatai in Pashtun code: Marcus Luttrell, the sole survivor of a US Navy SEAL team ambushed by Taliban fighters. Wounded, he evaded the enemy and was aided by members of the Sabray tribe who took him to their village. The tribal chief protected him, fending off attacking tribes until word was sent to nearby US forces.
+*   Honour vs law based
+    *   Without law and order, honour based systems are optimal. With law and order, honour is unnecessary. 
+    *   Montreal where society flipped from law-based to honour in a day.
+
+## Tight vs Loose
+
+![alt_text](images/Ethics-Morality0.png "image_tooltip")
+
+*   Tightness-looseness is part of a complex, loosely integrated multilevel system that comprises distal ecological and historical threats (e.g., high population density, resource scarcity, a history of territorial conflict, and disease and environmental threats), broad versus narrow socialization in societal institutions (e.g., autocracy, media regulations), the strength of everyday recurring situations, and micro-level psychological affordances (e.g., prevention self-guides, high regulatory strength, need for structure).
+    *   [Source](https://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=2302&context=articles): Differences between Tight and Loose Cultures: A 33-Nation Study Michele J. Gelfand
+    *   Gelfand: The working-class kids by age three are protesting against this puppet for breaking the rules. They’re learning by age three that rules matter. We do other work that is looking at how culture is engrained when it comes to social norm violations. 
+    *   Nations that have encountered ecological and historical threats have much stronger norms and lower tolerance of deviant behavior. Tight nations have higher population density in the year 1500 in the year 2000 in the nation and in the year 2000 in rural areas and also have a higher projected population increase. Tight nations have a dearth of natural resources, including a lower percentage of Differences Between Tight and Loose Cultures farmland, higher food deprivation, lower food supply and production, lower protein and fat supply less access to safe water, and lower air quality relative to loose nations. Tight nations face more disasters such as floods, tropical cyclones, and droughts and have had more territorial threats from their neighbors during the period 1918-2001. Historical prevalence of pathogens was higher in tight nations, as were the number of years of life lost to communicable diseases ), the prevalence of tuberculosis, and infant and child mortality rates.
+
+## In-group vs Out-group
+
+*   To rule a people, you must look down on them. You can't rule people you consider equals. That's why higher moral ground is so important. It's a tell.
+*   Realistic Conflict Theory: intergroup hostility can arise as a result of conflicting goals and competition over limited resources
+    *   Robber’s Cave Experiment divided boys into two groups, pitted them against each other, and then made them friends by giving them common goals.
+
+## Mechanism for Progress
+
+*   See “Mobs” under Society essay.
+*   Angry young men drive change in social structure. Every culture has words for loser men, like chav, bro, gopnik. At critical mass, these men can incite change.
+    *   Incels
+*   Teenage girls drive change in social norms.
+
+## Incompleteness Theorem of Norms
+
+*   Social norms are a trade-off.
+    *   In Japan streets are clean but tight society. In US, streets are a mess but loose society.
+*   Humans are never happy because humans adjust to “good enough”. Since humans are always unhappy, morality drives progress. Morality is a heuristic for what to improve. If you’re not outraged, then others who are outraged will have their needs addressed.
+    *   Before, it was vaccines. Now it's defibrillators or breast cancer. Tomorrow it'll be toenail health or something. 
+*   
+
+
+## Contradictions in Our Ethics
+
+
+
+*   Ethics doc - We are mad about inequality but would be outraged at the idea of tearing Versailles and Taj Mahal. 
+*   Rosa Parks wasn't the first person to not give up her seat.  [NPR]
+*   Women in Congo report rape to get aid since all aid is for rape victims.  [NPR]
+*   People who claim everyone is beautiful but will discuss expensive fashion the next minute. Or will support the poor but spend $$$ on clothes.
+*   Americans will donate money to Africa but not for black people in Chicago's South Side.
+*   Indians complain about Western hypocrisy in English
+
+## Hunter Gatherers
+
+*   Many anthropological and archaeological studies indicate that in simple agricultural societies with no political frameworks beyond village and tribe, human violence was responsible for about 15 per cent of deaths, including 25 percent of male deaths. In contemporary New Guinea, violence accounts for 30 percent of male deaths in one agricultural tribal society, the Dani, and 35 per cent in another, the Enga. In Ecuador, perhaps 50 per cent of adult Waoranis meet a violent death at the hands of another human!3 In time, human violence was brought under control through the development of larger social frameworks – cities, kingdoms and states. But it took thousands of years to build such huge and effective political structures. Pg. 74 of Harari - Sapiens from Gat, War in Human Civilization, 130–1; Robert S. Walker and Drew H. Bailey, ‘Body Counts in Lowland South American Violence’, Evolution and Human Behavior 34 (2013), 29–34.
+
+## Other Animals
+
+*   Crows might leave gifts. Alternatively, “crow would learn that leaving behind random objects means a bigger meal and could teach other crows in the family to do the same.” However, such reciprocity is the real purpose of gifting. Further, “ a 2014 study from the Konrad Lorenz Institute in Austria showed ravens and crows were more motivated to exchange objects with human experimenters they knew, rather than humans they didn’t.”
+    *   Ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4003535/ 
+
+## Takeaway
+
+*   Morality exists to drive social progress.
+*   Treat morals like emotions. If you’re feeling a moral feeling, then it’s a tell. Introspect on the situation.
