@@ -162,6 +162,12 @@ http://en.wikipedia.org/wiki/Quorum_sensing
 *   Climate is extremely complex. An example is the explanation for polynyas [ref](https://www.livescience.com/65693-mysterious-antarctic-ice-holes-explained.html). Stronger winds and subsequent upwelling of water -> more saline ocean surface water -> made mixing easier -> major storms mixed ocean waters more easily -> water subsurface water upwelled to melt [ref](https://www.livescience.com/65693-mysterious-antarctic-ice-holes-explained.html)
 *   Accidental satellite collision can lead to avalanche action: 2019-09-04 “A European satellite dodged one belonging to SpaceX over the Pacific Ocean on Monday morning, hopping around the other spacecraft after a communication glitch left SpaceX unresponsive to follow-up messages.”
 
+### Feedback Loops
+
+* Systems are closed or open.
+* For stability, systems need feedback.
+  * The Hygiene Hypothesis.
+  * Backpropagation in machine learning.
 
 ## Scaling Laws
 
