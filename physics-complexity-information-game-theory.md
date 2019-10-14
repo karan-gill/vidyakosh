@@ -52,7 +52,10 @@
 
 ### Price of Anarchy
 
-*   Optimization by oracles is possible given enough information processing to arrive at correct decision: GI bill gave millions of US soldiers free education, a house, and a job.
+*   Optimization by oracles is possible given enough information processing to arrive at correct decision. Examples:
+    *   GI bill gave millions of US soldiers free education, a house, and a job.
+    *   Tech companies prefer to vertically integrate AI, software, and hardware.
+    *   MATLAB is an integrated, managed ecosystem for technical computing.
 
 ## Incompleteness / Inefficiency
 
