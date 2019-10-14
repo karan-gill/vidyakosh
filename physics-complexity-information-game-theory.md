@@ -1,37 +1,24 @@
 # Knowledge Theory
 
-
 ## Need for Knowledge Theory
-
-
 
 *   We need a theory of information and knowledge itself.
 *   How much information is out there?
 *   How much info does a field contain?
 
-
 ## Broken Symmetry
-
-
 
 *   [More Is Different](http://robotics.cs.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf?fbclid=IwAR36sefOnWPBmvhivZwGl7GFSoTLvNifwldqTOdJ7moF9A60jfAPuc7TsBc) -- P. W. Anderson -- Science 1972 -- 
     *   Physics is the study of symmetry
     *   Things cannot be reduced -- properties of the whole cannot be deduced from properties of the constituents
 
-
 ## Limits to Knowledge
-
-
 
 *   Another information bound is that of complexity in descriptions of the environment. As science progresses, our theories get more and more detailed. It takes longer and longer for someone to reach the cutting edge. At some point, theories will get so complex that it is simply too hard to understand and advance them anymore. We solve this problem through specialization.
 
-
 # Informational Physics
 
-
 ## Concepts
-
-
 
 *   Negentropy: Entropy is disorder, whether it’s the difference between a tidy and untidy room or between a solved and unsolved Rubic Cube. Negative entropy is the reduction of entropy. A system’s entropy (such as a room) always increases (the room becomes untidy, never tidy). The only way for a system to reduce its entropy is to do work (you clean your room) by expending energy (now you’re tired). But why is this concept of negative entropy important? Because it’s the best definition of life I’ve seen. Any system that reduces its entropy by doing work and transferring that entropy to the environment is alive. Hence, bacteria are alive, you are alive, and yes even society is alive. Because society maintains its order and reduces entropy.
 *   Energy - The next constraint is energy. To maintain order any system needs energy to run. When a system runs out of an energy source, it cannot maintain order and disintegrates.
@@ -39,21 +26,14 @@
     *   “information is physical” landuaer
     *   “physics is informational” wheeler
 
-
 ## Reality is Information
-
-
 
 *   Wheeler - It from Bit.
 *   Rovelli - Relational Quantum Mechanics.
 
-
 # Game Theory
 
-
 ## Information & Systems
-
-
 
 *   Scaling laws -> multi-level selection -> info flows between agents -> game theory
 *    - game theoretic consideration: after agents reach a level of self-determination, if inequality gets too high, individual redistributive pressures act
@@ -65,54 +45,34 @@
 *    - ultimate information constraint is when it takes an entire lifetime to reach the cutting edge
 *   ultimate constraint is energy ofcourse but in practice the bounding constraints are game theory and information abstraction
 
-
 ## Cooperation
-
-
 
 *   Mechanisms for the evolution of cooperation: in selection, direct reciprocity, indirect reciprocity, network reciprocity and group selection. Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279745/pdf/nihms49939.pdf
 *   Cellular Automata & Game Theory. See parts of http://www.dhushara.com/CA/
 
-
 ### Price of Anarchy
-
-
 
 *   Optimization by oracles is possible given enough information processing to arrive at correct decision: GI bill gave millions of US soldiers free education, a house, and a job.
 
-
 ## Incompleteness / Inefficiency
-
-
 
 *   Price of Anarchy : http://www.cs.princeton.edu/~zdvir/apx11slides/rough-slides.pptx and https://www.cs.ubc.ca/~kevinlb/teaching/cs532l%20-%202013-14/Lectures/Price_of_Anarchy.pdf
     *   Computer networks: https://www.math.leidenuniv.nl/scripties/OlsthoornMaster.pdf
 
-
 ## Biology
-
-
 
 *   Embryo/mother battle: Embryo tries to extract as many nutrients as possible while mother must keep nutrients for future kids. Hence, the placenta.
 *   Slime molds -- This happens because the nuclei in the 'plasmodium' form are the products of many pairwise fusions between amoeboid haploid individuals. When genetically divergent nuclei come together in the plasmodium form, cheaters have been shown to emerge. However, genetic homogeneity among fusing amoeboid serves to maintain the multicellular plasmodium.
 
-
 ## Multi-level selection
-
-
 
 *   Negentropic systems (negentropy as just discussed above) we notice that they are made up of negentropic components which may be made up of negentropic components. So society is made of organizations which are made of people which are made of cells which are made of subcellular structures which are encoded by genes. This is a hierarchy of negentropic systems. We have hierarchies of negentropic components governed by game theory mediated by information flows between them. Each negentropic system, at every level of hierarchy, has its model of the world and some information available to it.
 
-
 ## Phase Transitions
-
-
 
 *   Slime molds, locusts, human mobs all form when individuals are threatened and collective action provides a clearly beneficial, optimal solution.
 
-
 # ML and Evolution
-
 
 ## Dropout and Ev
 
@@ -120,26 +80,11 @@ Paper: http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 
 One possible explanation for the superiority of sexual reproduction is that, over the long term, the criterion for natural selection may not be individual fitness but rather mix-ability of genes. The ability of a set of genes to be able to work well with another random set of genes makes them more robust. Since a gene cannot rely on a large set of partners to be present at all times, it must learn to do something useful on its own or in collaboration with a small number of other genes. According to this theory, the role of sexual reproduction is not just to allow useful new genes to spread throughout the population, but also to facilitate this process by reducing complex co-adaptations that would reduce the chance of a new gene improving the fitness of an individual. Similarly, each hidden unit in a neural network trained with dropout must learn to work with a randomly chosen sample of other units. This should make each hidden unit more robust and drive it towards creating useful features on its own without relying on other hidden units to correct its mistakes. However, the hidden units within a layer will still learn to do different things from each other. One might imagine that the net would become robust against dropout by making many copies of each hidden unit, but this is a poor solution
 
-
 ## MWUA and evo
 
 Source: Papadimitriou - Algorithms, complexity, and the sciences
 
 the equations of population genetic dynamics are mathematically equivalent to positing that each locus selects a probability distribution on alleles according to a particular rule which, in the context of the theory of algorithms, game theory, and machine learning, is known as the multiplicative weight updates algorithm (MWUA). MWUA is known in computer science as a simple but surprisingly powerful algorithm (see ref. 5 for a survey). Moreover, there is a dual view of this algorithm: each locus may be seen as selecting its new allele distribution at each generation so as to maximize a certain convex combination of (i) cumulative expected fitness and (ii) the entropy of its distribution on alleles. This connection between evolution, game theory, and algorithms seems to us rife with productive insights; for example, the dual view just mentioned sheds new light on the maintenance of diversity in evolution
-
-
-# To be Sorted
-
-http://en.wikipedia.org/wiki/Biofilm 
-
-http://en.wikipedia.org/wiki/Apoptosis 
-
-http://en.wikipedia.org/wiki/Quorum_sensing
-
-
-
-*   
-
 
 # Complexity
 
