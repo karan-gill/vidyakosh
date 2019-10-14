@@ -2,9 +2,35 @@
 
 ## Genetic Drift: Smaller Populations Evolve Faster
 
-*   The evolutionary effects of natural selection are generally independent of the size of the evolving population, while the effects of genetic drift depend strongly on population size. Other things being equal, the rate of genetic drift is proportional to the inverse square-root of population size. The inverse square-root is a simple consequence of the statistics of independent random variables. The average of any N independent random variables varies at a rate inversely proportional to the square-root of N. For any firmly established species with a population measured in millions or billions, genetic drift is negligible, natural selection is dominant, and the Darwin theory is accurately valid. For a newly emerging or endangered species with population measured in tens or hundreds, genetic drift dominates, selection is relatively unimportant, and the Kimura theory is valid. The random jumps of genes in a small population produce evolutionary change much faster than the gentle push of natural selection. Kimura understood that genetic drift is the main driving force in the quick jumps when species are created or extinguished.
-    *   https://www.edge.org/conversation/freeman_dyson-biological-and-cultural-evolution
-    *   Nature thrives by taking risks. She scrambles mating-system genes so as to increase the risk that individual parents will fail to find mates. The increase of risk of sterility of individuals is a part of Nature's plan. She imposes the increased risk on the whole population, so that a rare event will occur with greater probability, when a pair of lucky parents, whose names might happen to be Adam and Eve, are born with matching mating-system mutations. That rare event gives a pair of parents a chance to give birth to a new species.
+* The evolutionary effects of natural selection are generally
+  independent of the size of the evolving population, while the
+  effects of genetic drift depend strongly on population size. Other
+  things being equal, the rate of genetic drift is proportional to the
+  inverse square-root of population size. The inverse square-root is a
+  simple consequence of the statistics of independent random
+  variables. The average of any N independent random variables varies
+  at a rate inversely proportional to the square-root of N. For any
+  firmly established species with a population measured in millions or
+  billions, genetic drift is negligible, natural selection is
+  dominant, and the Darwin theory is accurately valid. For a newly
+  emerging or endangered species with population measured in tens or
+  hundreds, genetic drift dominates, selection is relatively
+  unimportant, and the Kimura theory is valid. The random jumps of
+  genes in a small population produce evolutionary change much faster
+  than the gentle push of natural selection. Kimura understood that
+  genetic drift is the main driving force in the quick jumps when
+  species are created or extinguished.
+  
+  * https://www.edge.org/conversation/freeman_dyson-biological-and-cultural-evolution
+  * Nature thrives by taking risks. She scrambles mating-system genes
+    so as to increase the risk that individual parents will fail to find
+    mates. The increase of risk of sterility of individuals is a part of
+    Nature's plan. She imposes the increased risk on the whole
+    population, so that a rare event will occur with greater
+    probability, when a pair of lucky parents, whose names might happen
+    to be Adam and Eve, are born with matching mating-system
+    mutations. That rare event gives a pair of parents a chance to give
+    birth to a new species.
 
 ## Sex genes rapid evolution
 
@@ -31,7 +57,32 @@
 
 ## Social Brain Hypothesis
 
-*   [Source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) The only way you can live that nice happy free life is if you're in a small community, like 25 people, most of whom are children. So everything is happy and friendly. People get along with each other. But a village of 25 people is extremely vulnerable to raids from the outside, and the men will come in and steal the women, and send the men packing, or shoot the men and take the women. So they're constantly being pressured to maximize the size of their village. And as you increase the number of people in the village, you get increasing amounts of conflict. I mean the question I always ask in all villages, why did such and such a group fission away from such and such a group? They'll say, "We've just got so damn many people that we're on each other's nerves all the time, so we just split apart." But when the intensity of warfare is high, it would be really hazardous to split apart. And what I often found is, you know, the garden that might be 20 acres large, this is a big garden, and a fight might occur in the village that might be 200 people, and instead of picking up and moving the next valley over, they can't, because they're too dependent on their gardens. So they split the group into two parts, each locating in a different part of the garden. Then they begin transplanting their plantain cuttings, their banana cuttings, and tubers to some other location, maybe a day's walk away, until they get that garden developed to the point that it can feed them. Then they move away. But they may rejoin and move away again. …
+*   [Source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument)
+    The only way you can live that nice happy free life is if you're
+    in a small community, like 25 people, most of whom are
+    children. So everything is happy and friendly. People get along
+    with each other. But a village of 25 people is extremely
+    vulnerable to raids from the outside, and the men will come in and
+    steal the women, and send the men packing, or shoot the men and
+    take the women. So they're constantly being pressured to maximize
+    the size of their village. And as you increase the number of
+    people in the village, you get increasing amounts of conflict. I
+    mean the question I always ask in all villages, why did such and
+    such a group fission away from such and such a group? They'll say,
+    "We've just got so damn many people that we're on each other's
+    nerves all the time, so we just split apart." But when the
+    intensity of warfare is high, it would be really hazardous to
+    split apart. And what I often found is, you know, the garden that
+    might be 20 acres large, this is a big garden, and a fight might
+    occur in the village that might be 200 people, and instead of
+    picking up and moving the next valley over, they can't, because
+    they're too dependent on their gardens. So they split the group
+    into two parts, each locating in a different part of the
+    garden. Then they begin transplanting their plantain cuttings,
+    their banana cuttings, and tubers to some other location, maybe a
+    day's walk away, until they get that garden developed to the point
+    that it can feed them. Then they move away. But they may rejoin
+    and move away again. …
 
 ## Law & Order
 
@@ -207,17 +258,27 @@ Ref: Nature - The Myopia Boom
 
 ## Food, Energy, Metabolism, Lifespan
 
-*   Cooking made food easier to digest and let us extract more calories per gram.
-*   yanomamo [source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) I bought plantains and bananas from them, and some of that; their produce was excellent.
-*   Grandmother hypothesis: Grandmothers help care for young. See Schultz’s graph on primate life: 
+*   Cooking made food easier to digest and let us extract more calories per gram. [source](https://www.npr.org/2010/08/02/128849908/food-for-thought-meat-based-diet-made-us-smarter)
+    *   Eating meat let us extract more energy.
+    *   Stone tools meant we could process raw food without massive teeth.
+    *   Cooking makes digestion much, much easier.
+
+*   yanomamo [source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument). I bought plantains and bananas from them, and some of that; their produce was excellent.
+
+Grandmother hypothesis: Grandmothers help
+*  care for young. See Schultz’s graph on primate life:
 
 ![alt_text](images/Society-culture1.png "image_tooltip")
 
-*   (unproved) Grandparents are essential for social stability -- respect elders because elders see social situations evolve and have perspective.
+* (unproved) Grandparents are essential for social stability --
+    respect elders because elders see social situations evolve and
+    have perspective.
 
 ## Physiology
 
-*   Human skeletons are changing due to the different stresses of modern life: http://www.bbc.com/future/story/20190610-how-modern-life-is-transforming-the-human-skeleton
+* Human skeletons are changing due to the different stresses of modern
+    life:
+    http://www.bbc.com/future/story/20190610-how-modern-life-is-transforming-the-human-skeleton
 
 ## Evolutionary Psychology
 
