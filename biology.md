@@ -1,3 +1,11 @@
+# To be Sorted
+
+http://en.wikipedia.org/wiki/Biofilm 
+
+http://en.wikipedia.org/wiki/Apoptosis 
+
+http://en.wikipedia.org/wiki/Quorum_sensing
+
 # Biology
 
 ## Genetic Evolutionary Mechanisms
