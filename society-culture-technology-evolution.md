@@ -88,6 +88,9 @@
 
 *   [Source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) What about standing back and saying "We're avenging that death, which was caused when they avenged the previous death, and the cycle of violence keeps going on. Is there some way that we can extricate ourselves from this cycle?" 
     *   The answer to that is in an incident when the Yanomamö began being aware of Venezuelans. It was a territorial capital 200+ miles away, and some of the missionaries sent young guys to the territorial capital to learn practical nursing to come back to the village and treat snake bites, and scratches, and wounds, and things like that, and to give them malaria pills. And they taught them how to use microscopes. But one of these guys came back and he was just terribly excited when he told me that he discovered policia. I was like, "Well, what's policia?" "They will grab people and haul them off and put them in these little separate houses, if they do something wrong. And I think we need policia, because my brother killed a man from Iwahikorobateri five years ago, and I'm always worried that the Iwahikorobateri are going to come and kill me, because he's my brother." And he thought that if they had law, law would be a good thing.
+*   Weak states lead to local solutions to maintain order. These self-governance solutions are an example of spontaneous order.
+    *   Dacoits/bhaggis who cite weak state and injustice to take arms: “There are three mains reasons for someone becoming a baaghi – one, the village pradhan, two, the area thanedar and three, the patwari of the area. If these people deliver justice, no one need become a baaghi,” he says. The uncle-nephew duo turned bandits after a property dispute with a section of the extended family turned violent and resulted in their killing two members of the other faction “in retaliation and self defence”. [source](https://www.hindustantimes.com/india-news/we-wouldn-t-come-charging-on-horses-like-they-show-in-bollywood-films-former-chambal-dacoits-remember-time-spent-as-bandits/story-1V8dXgX7BR50weQbN1VorJ.html) Other former dacoits HT spoke to – Hari Singh Parmar, Munna Singh, Bahadur Singh – all spoke of similar disputes (often within the family) or harassment (by influential or rich people in the village or the panchayat and the authorities), as the reason for becoming dacoits. “It was a rural economy. The only occupation was agriculture. There would be a lot of land-related disputes. When the dispute would get stuck in a revenue court or a civil court for a long time, people lost patience. In case of a fight, if a grievous crime took place, they would run away to the ravines,” agrees Joga.
+    *   Second example is the early history of SF where criminal rule alternated with mob justice that finally resulted in a stable city government that provided order but also corruption.
 
 ## Liberal democracy observations
 
@@ -259,9 +262,10 @@ Ref: Nature - The Myopia Boom
 ## Food, Energy, Metabolism, Lifespan
 
 *   Cooking made food easier to digest and let us extract more calories per gram. [source](https://www.npr.org/2010/08/02/128849908/food-for-thought-meat-based-diet-made-us-smarter)
-    *   Eating meat let us extract more energy.
+    *   Eating meat let us extract more energy around 2.3 MYA.
     *   Stone tools meant we could process raw food without massive teeth.
-    *   Cooking makes digestion much, much easier.
+    *   Cooking makes digestion much, much easier ~2 MYA.
+    *   Cooking let us evolve from chimps to humans.
 
 *   yanomamo [source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument). I bought plantains and bananas from them, and some of that; their produce was excellent.
 
