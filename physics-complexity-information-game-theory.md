@@ -192,3 +192,10 @@ the equations of population genetic dynamics are mathematically equivalent to po
 # Network Theory
 
 *   Slime molds replicate highway networks: Transport networks are ubiquitous in both social and biological systems. Robust network performance involves a complex trade-off involving cost, transport efficiency, and fault tolerance. Biological networks have been honed by many cycles of evolutionary selection pressure and are likely to yield reasonable solutions to such combinatorial optimization problems. Furthermore, they develop without centralized control and may represent a readily scalable solution for growing networks in general. In the picture shown below, researchers have carefully placed oat flakes in the pattern of Japanese cities around Tokyo. The slime mold Physarum polycephalum was introduced, eventually connecting the flakes with an efficient network to distribute nutrients throughout the single celled organism.
+
+# Quantum Mechanics
+
+## Real-World Manifestations
+
+* Quantum Zeno effect in pigeon navigation
+* Quanum tunneling enables catalysis by chlorophyll
