@@ -1,43 +1,7 @@
 :toc:
 toc::[]
 
-# Evolution Theory
-
-## Genetic Drift: Smaller Populations Evolve Faster
-
-* The evolutionary effects of natural selection are generally
-  independent of the size of the evolving population, while the
-  effects of genetic drift depend strongly on population size. Other
-  things being equal, the rate of genetic drift is proportional to the
-  inverse square-root of population size. The inverse square-root is a
-  simple consequence of the statistics of independent random
-  variables. The average of any N independent random variables varies
-  at a rate inversely proportional to the square-root of N. For any
-  firmly established species with a population measured in millions or
-  billions, genetic drift is negligible, natural selection is
-  dominant, and the Darwin theory is accurately valid. For a newly
-  emerging or endangered species with population measured in tens or
-  hundreds, genetic drift dominates, selection is relatively
-  unimportant, and the Kimura theory is valid. The random jumps of
-  genes in a small population produce evolutionary change much faster
-  than the gentle push of natural selection. Kimura understood that
-  genetic drift is the main driving force in the quick jumps when
-  species are created or extinguished.
-  
-  * https://www.edge.org/conversation/freeman_dyson-biological-and-cultural-evolution
-  * Nature thrives by taking risks. She scrambles mating-system genes
-    so as to increase the risk that individual parents will fail to find
-    mates. The increase of risk of sterility of individuals is a part of
-    Nature's plan. She imposes the increased risk on the whole
-    population, so that a rare event will occur with greater
-    probability, when a pair of lucky parents, whose names might happen
-    to be Adam and Eve, are born with matching mating-system
-    mutations. That rare event gives a pair of parents a chance to give
-    birth to a new species.
-
-## Sex genes rapid evolution
-
- Goodenough concludes that the rapid mutation of mating-system genes is Nature's way of achieving big jumps in large-scale evolution. Rapidly evolving mating systems gave us the diversity of species that astonished Darwin. Twenty years ago, Goodenough wrote a paper with the title, "Rapid Evolution of Sex-related Genes", describing her observations and conclusions. 
+# Evolution of Society + Groups
 
 ## Memetics
 
@@ -45,18 +9,9 @@ toc::[]
 *   Memes allow lateral transfer.
 *   Inheritance, inertia, drift.
 
-## Long Tail Events
-
-*   Meteorites cause explosions
-*   Mongols destroyed Baghdad and allowed eventual European power.
-*   Fukushima halted nuclear power even though no one died from radiation exposure.
-*   Tambora explosion changed human history. “The first great wave of emigration from Ireland began at the time of the Tambora crisis. Emigration from England and Scotland also rose sharply in 1816. Building of the Erie Canal”. https://nypost.com/2019/07/27/how-an-1815-volcanic-eruption-turned-new-york-into-americas-largest-city/
-
 ## Cognitive Ability
 
 *   Increased ability to process information leads to ability to exploit more niches.
-
-# Evolution of Society + Groups
 
 ## Social Brain Hypothesis
 

@@ -1,20 +1,6 @@
 :toc:
 toc::[]
 
-# ML and Evolution
-
-## Dropout and Ev
-
-Paper: http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf 
-
-One possible explanation for the superiority of sexual reproduction is that, over the long term, the criterion for natural selection may not be individual fitness but rather mix-ability of genes. The ability of a set of genes to be able to work well with another random set of genes makes them more robust. Since a gene cannot rely on a large set of partners to be present at all times, it must learn to do something useful on its own or in collaboration with a small number of other genes. According to this theory, the role of sexual reproduction is not just to allow useful new genes to spread throughout the population, but also to facilitate this process by reducing complex co-adaptations that would reduce the chance of a new gene improving the fitness of an individual. Similarly, each hidden unit in a neural network trained with dropout must learn to work with a randomly chosen sample of other units. This should make each hidden unit more robust and drive it towards creating useful features on its own without relying on other hidden units to correct its mistakes. However, the hidden units within a layer will still learn to do different things from each other. One might imagine that the net would become robust against dropout by making many copies of each hidden unit, but this is a poor solution
-
-## MWUA and evo
-
-Source: Papadimitriou - Algorithms, complexity, and the sciences
-
-the equations of population genetic dynamics are mathematically equivalent to positing that each locus selects a probability distribution on alleles according to a particular rule which, in the context of the theory of algorithms, game theory, and machine learning, is known as the multiplicative weight updates algorithm (MWUA). MWUA is known in computer science as a simple but surprisingly powerful algorithm (see ref. 5 for a survey). Moreover, there is a dual view of this algorithm: each locus may be seen as selecting its new allele distribution at each generation so as to maximize a certain convex combination of (i) cumulative expected fitness and (ii) the entropy of its distribution on alleles. This connection between evolution, game theory, and algorithms seems to us rife with productive insights; for example, the dual view just mentioned sheds new light on the maintenance of diversity in evolution
-
 # Complexity
 
 ## Principles
