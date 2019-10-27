@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 ## Tit for Tat
 
 *   Set Framework:

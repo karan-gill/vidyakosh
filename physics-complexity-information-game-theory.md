@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 # Knowledge Theory
 
 ## Need for Knowledge Theory

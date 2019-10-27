@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 # Ritualized battles to massacres
 
 *   Yanomamö [source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) 

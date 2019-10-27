@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 Mathematics
 
 # Differential Equations

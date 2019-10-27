@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 # Culture, Symbolism, Myth, Narrative
 
 ## Myth Formation

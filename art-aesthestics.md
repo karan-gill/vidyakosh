@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 # Art & Aethestics
 
 ## Aesthetics and Superstimulus

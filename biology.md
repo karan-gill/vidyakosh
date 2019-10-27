@@ -1,3 +1,6 @@
+:toc:
+toc::[]
+
 # To be Sorted
 
 http://en.wikipedia.org/wiki/Biofilm 
