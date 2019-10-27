@@ -1,0 +1,35 @@
+:toc:
+toc::[]
+
+# Knowledge Theory
+
+## Need for Knowledge Theory
+
+*   We need a theory of information and knowledge itself.
+*   How much information is out there?
+*   How much info does a field contain?
+
+## Broken Symmetry
+
+*   [More Is Different](http://robotics.cs.tamu.edu/dshell/cs689/papers/anderson72more_is_different.pdf?fbclid=IwAR36sefOnWPBmvhivZwGl7GFSoTLvNifwldqTOdJ7moF9A60jfAPuc7TsBc) -- P. W. Anderson -- Science 1972 -- 
+    *   Physics is the study of symmetry
+    *   Things cannot be reduced -- properties of the whole cannot be deduced from properties of the constituents
+
+## Limits to Knowledge
+
+*   Another information bound is that of complexity in descriptions of the environment. As science progresses, our theories get more and more detailed. It takes longer and longer for someone to reach the cutting edge. At some point, theories will get so complex that it is simply too hard to understand and advance them anymore. We solve this problem through specialization.
+
+# Informational Physics
+
+## Concepts
+
+*   Negentropy: Entropy is disorder, whether it’s the difference between a tidy and untidy room or between a solved and unsolved Rubic Cube. Negative entropy is the reduction of entropy. A system’s entropy (such as a room) always increases (the room becomes untidy, never tidy). The only way for a system to reduce its entropy is to do work (you clean your room) by expending energy (now you’re tired). But why is this concept of negative entropy important? Because it’s the best definition of life I’ve seen. Any system that reduces its entropy by doing work and transferring that entropy to the environment is alive. Hence, bacteria are alive, you are alive, and yes even society is alive. Because society maintains its order and reduces entropy.
+*   Energy - The next constraint is energy. To maintain order any system needs energy to run. When a system runs out of an energy source, it cannot maintain order and disintegrates.
+*   Information based
+    *   “information is physical” landuaer
+    *   “physics is informational” wheeler
+
+## Reality is Information
+
+*   Wheeler - It from Bit.
+*   Rovelli - Relational Quantum Mechanics.
