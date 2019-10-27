@@ -1,0 +1,34 @@
+:toc:
+toc::[]
+
+# Computation
+
+## Abstracting real-world
+
+*   The Matrix
+*   Wired: Mirror world concept where things exist in cyberspace
+*   Eve Online
+    *   Battle of b-r5rb
+
+## Real & Cyber Interactions
+
+*   Incel community was founded as a positive support community but evolved into a angry, hate group. The original founder passed on the group, and had no idea what happened to it. She was aghast.
+*   sotkc market flash crash
+*   stuxnet
+*   flash mobs
+*   anonymous
+
+## Game Theory of the Internet
+
+*   internet defends itself, is alive - sopa example
+
+## Simulations
+
+*   In a description, returns do not scale with description complexity. You have to make your description more and more complex to improve your description. Ultimately, you realize you need a simulation from first principles. Ex. using bisection to iteratively find a root.
+
+## Incompleteness Theorems
+
+*   Incompleteness theorem has different manifestations in different fields.
+    *   Price of anarchy
+    *   Uncertainty principle
+    *   Halting problem
