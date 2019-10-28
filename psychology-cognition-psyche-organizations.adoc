@@ -5,30 +5,6 @@ toc::[]
 
 *   Chagnon on yamomamo: [source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) The villages that I became really involved in, like Bisaasi-teri and these were just like my good friends, and even some of my relatives, and it was not like observer-observed kind of relationship. I wept at their funerals, and things like that. They played with my kids in the short time my kids were there. So it's very easy to empathize and recognize, even as an anthropologist or maybe a missionary, how similar these people are to you. They may have exotic customs, and eat grubs an inch long, but basically, when you scratch them, they bleed red and have emotions like yours.
 
-## Leaders, Politicians, Dictators
-
-### Politicians Managing Reputations
-
-*   [dead cat maneuver](https://twitter.com/AdamBienkov/status/1143585761842933760): if you've been caught out doing something terrible, just throw a dead cat in the middle of the dining room table. People will still be angry at you, but they'll be angry at you about the dead cat, not about the thing you were trying to bury. For example: Prior to the model-bus interview, if you googled "boris johnson bus" you would learn about [Johnson's infamous "Brexit Battle Bus"](https://boingboing.net/2017/07/05/referendumb.html) which was driven around the UK in the runup to the Brexit vote. Today, the results are a mix of stories about the model bus hobby and the Brexit bus (as well as stories about whether this was a media manipulation gambit). This is such a brilliant example of political search engine optimization that it's hard to believe someone as buffoonish as Johnson would be capable of pulling it off intentionally.
-
-### Organizational Trust
-
-*   Face to face time, talking enough
-*   Allow chats bferoe/after meetings
-
-## Innovation & Decision Making
-
-*   Peer pressure speeds decision making: PP can overcome barriers imposed upon a consensus by the existence of tightly connected communities with local leaders or the existence of leaders with poor cohesiveness of opinions. A moderate level of PP is also necessary to explain the rate at which innovations diffuse through a variety of social groups. How Peer Pressure Shapes Consensus, Leadership, and Innovations in Social Groups https://www.nature.com/articles/srep02905?WT.ec_id=SREP-20131015 
-*   Tight groups of deep domain knowledge, messing around, obsession
-    *   Homebrew computer club
-    *   Fairchildt five
-    *   Dirac on quantum mechanics -- we were just messing around
-    *   Groups of two
-        *   Jeff Dean and Sanjay Ghemawat, 
-        *   Amos Tversky and Daniel Kahneman
-    *   Patagonia+North Face: Mountain of Storms: Before they were magnates of the outdoors, Patagonia founder Yvon Chouinard and The North Face’s co-founder Doug Tompkins, in 1968, they and three friends — now-famous rock climber Chris Jones, U.S. ski/snowboard Hall of Famer Dick Dorworth, and Mountainfilm founder Lito Tejada-Flores — set off from San Francisco to Patagonia.
-    *   Hao Huang proved sensitivity conjecture -- [ref](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/) -- Hao learned problem in 2012 and solved in 2019 -- starting in 2013 he conjectured a new approach and thought about approach for 5 years -- 2018 he had a brainwave about a leveraging Cauchy interlace theorem -- finally brainwave in 2019.
-
 ## How Thoughts Evolve
 
 *   Initially, people should do whatever they want as long as they aren't hurting other people-- that doesn't mean anything -- the world is complex
