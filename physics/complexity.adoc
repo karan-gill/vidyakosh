@@ -58,6 +58,7 @@ toc::[]
         *   The change, however, affected the plane’s aerodynamics. Boeing discovered the new position of the engines increased the lift of the aircraft, creating a tendency for the nose to pitch up.
         *   The solution was MCAS, which ordered the stabilizer to push down the nose if the “angle of attack” — or angle that air flows over the wings — got too high. The MCAS depends on data from two sensors.
     *   The software erroneously thought the aircraft was at risk of losing lift and stalling — because of a malfunctioning sensor — and ordered the stabilizer at the rear to put it into a series of sharp dives that ultimately caused the plane to crash into the Java Sea.
+*   Evolution: Evolution backs iteslf into corners, called "kludges". For example, our spine evolves for horizontal orientation in 4 legged animals, not vertical orientation. Hence, humans experience back pain. In another example, teeth evolved to be temporary and then became permanent, but we still preserve the nerves and suffer toothaches are a result.
 *   Revolutions in societies
 
 ## Systems of Complex Agents (like Society)
