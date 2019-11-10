@@ -7,5 +7,10 @@ toc::[]
 
 # Anthropology
 
+* Eagler warriors - Synthesize how the Aztecs evolved a militarily superior society by creating a mythology, rituals, status-symbolism that automated the creation of a military class, and that called for conquest to feed human sacrific to the gods. https://en.wikipedia.org/wiki/Eagle_warrior
 * John Morgan - The Life and Adventures of William Buckley -- Details the aborigiines before Western settles reached them. Similar to Nap Chagnon's account of the Yamonamo. Incopraote the obseravtions in this book as supportin evidence for anthropology and other areas.
 * To learn about Yamamoto shamas, read  life of Helena Valero, and Mark Ritchie - Spirit of the Rainforest.
+
+# Complex Systems
+
+* Sf history is an example hwo a system reaches equilibrium because SF self-organizes a government to bring order to the "Barbary Coast". https://en.wikipedia.org/wiki/Barbary_Coast,_San_Francisco
