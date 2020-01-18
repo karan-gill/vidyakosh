@@ -3,6 +3,36 @@ toc::[]
 
 # Evolution of Society + Groups
 
+## Thesis
+
+Human social evolution occurs as new modes of information exchange
+between humans arise. These modes are prompted by changed in the environment,
+which can be prompted by technological changed, which themselves could
+be prompted by social evolution. Therefore ,information, culture,
+and technology, drive each other in sequence.
+
+* Language and modern humans: The development of language corresponds
+  with development of stone axes and early hominins. The development
+  of language proper corresponds with the development of anatomically
+  modern humans.
+
+* Symbolic culure and homo sapiens: Homo sapiens have a significantly
+  richer symbolic culture than Neanderthals or Denisovans. This symbolic
+  culture let homo sapiens form superior social groups to other hominins.
+
+* Religion and agrarian societies: Religion let humans scale social
+  groups, resulting in agragrian societies with social groups in the
+  thousands.
+
+* Printing press and nation states: The printing press meant anyone could
+  access information, leading to the Industrial Revolution and nation states.
+
+* Internet and sharded-pan-culture: The Internet makes information
+  free and access instant. The Internet leads to a global "pan"
+  culture. Simultaneously, the Internet allows speciaized communities
+  to grow, leading to a "sharded" identity. See "What is the
+  Internet?"
+
 ## Memetics
 
 *   Genes are hardware and memes are software.
