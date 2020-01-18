@@ -3,7 +3,7 @@ toc::[]
 
 # Evolution of Society + Groups
 
-## Thesis
+## Thesis: How Humans Evolve
 
 Human social evolution occurs as new modes of information exchange
 between humans arise. These modes are prompted by changed in the environment,
