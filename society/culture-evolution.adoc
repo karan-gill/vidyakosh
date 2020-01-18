@@ -194,7 +194,29 @@ and technology, drive each other in sequence.
 
 *   [Source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) Infanticide: the Yanomamö practice infanticide occasionally, and it's for a variety of reasons. One of them being if they suspect that the newborn infant is deformed, and it can be traced right back to parental investment. Why invest in a losing prospect? Let's terminate the infant now and start anew. Another example of infanticide is, this is even rarer, that some guy was cuckolded by, or suspected he was cuckolded by some other guy, and he puts pressure on his wife to kill the new infant. That's not very common, but I've heard of it.
 
-## Organized Relition
+## Organized Religion
+
+### Thesis: Structure of Religion
+
+Religions arose with agricultural. Specifically, agriculture allowed
+social groups in the thousands. These social groups need a mechanism
+to function. Religion is that mechanism. Therefore, all religions
+contains rules for treating followers and non-followers. Religions
+specify how followers can recognize each other. And religions specify
+how authority derives, and provide mythology for establishing
+identity.
+
+All religions share the same structure:
+
+* Laws that allow cohesion at scale.
+* Holy Book that codifies laws.
+* Charismatic founder who creates an institution that transcends him or her.
+* Language to unify the flock.
+* Rich symbolism to communicate precepts, recognize believers.
+* Sacred buildings to create the sacred space.
+* Rituals.
+* Pilgrimates, which are rituals that involve great physical displacement towards a sacred space.
+* Inheritance of divinity by representatives on Earth.
 
 ### Religious Mechanisms
 
