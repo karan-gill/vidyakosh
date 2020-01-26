@@ -6,5 +6,26 @@
 
 === Gut and Physiology
 
-* About 2MYA, hominids started cooking food. Cooking let hominids develop a smaller, more efficient digestive tract which freed up energy to enable larger brain growth. Humans cannot maintain reproductive fitness with raw food. [Richard Wrangham - Catching Fire]
 * Gut Microbiome and Body: exercise subtly changes the makeup of our microbiome. may play a role in enhancing athletic performance. https://www.npr.org/sections/health-shots/2019/06/24/734826163/elite-runners-gut-microbe-makes-mice-more-athletic-could-it-help-the-rest-of-us[Source]
+
+== Food, Energy, Metabolism
+
+* Cooking made food easier to digest and let us extract more calories per gram. https://www.npr.org/2010/08/02/128849908/food-for-thought-meat-based-diet-made-us-smarter[source]
+** Eating meat let us extract more energy around 2.3 MYA.
+** Stone tools meant we could process raw food without massive teeth.
+** Cooking makes digestion much, much easier ~2 MYA.
+** Cooking let us evolve from chimps to humans. Develop a smaller, more efficient digestive tract which freed up energy to enable larger brain growth. Humans cannot maintain reproductive fitness with raw food. [Richard Wrangham - Catching Fire]
+* yanomamo https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[source]. I bought plantains and bananas from them, and some of that; their produce was excellent.
+
+== Lifespan
+
+Grandmother hypothesis: Grandmothers help * care for young. See Schultz’s graph on primate life:
+
+image:images/Society-culture1.png[alt_text,title="image_tooltip"]
+
+* (unproved) Grandparents are essential for social stability – respect elders because elders see social situations evolve and have perspective.
+
+== Physiology
+
+* Humams are made to run and hunt prey via persistence hunting.
+* Human skeletons are changing due to the different stresses of modern life: http://www.bbc.com/future/story/20190610-how-modern-life-is-transforming-the-human-skeleton

@@ -188,25 +188,6 @@ Religion cannot change. Religious laws are codified in books and enforced absolu
 
 For further context on nation states, you’ll find it useful to read the reasons that created the https://en.wikipedia.org/wiki/Peace_of_Westphalia[Peace of Westphalia].
 
-== Food, Energy, Metabolism, Lifespan
-
-* Cooking made food easier to digest and let us extract more calories per gram. https://www.npr.org/2010/08/02/128849908/food-for-thought-meat-based-diet-made-us-smarter[source]
-** Eating meat let us extract more energy around 2.3 MYA.
-** Stone tools meant we could process raw food without massive teeth.
-** Cooking makes digestion much, much easier ~2 MYA.
-** Cooking let us evolve from chimps to humans.
-* yanomamo https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[source]. I bought plantains and bananas from them, and some of that; their produce was excellent.
-
-Grandmother hypothesis: Grandmothers help * care for young. See Schultz’s graph on primate life:
-
-image:images/Society-culture1.png[alt_text,title="image_tooltip"]
-
-* (unproved) Grandparents are essential for social stability – respect elders because elders see social situations evolve and have perspective.
-
-== Physiology
-
-* Human skeletons are changing due to the different stresses of modern life: http://www.bbc.com/future/story/20190610-how-modern-life-is-transforming-the-human-skeleton
-
 == Evolutionary Psychology
 
 * Responding to criticisms of evolutionary psychology: https://evolution-institute.org/on-common-criticisms-of-evolutionary-psychology/#comments
