@@ -1,9 +1,9 @@
 :toc:
 
-# Sleep
+== Sleep
 
-*   Purpose: As you sleep, slow waves of electrical activity in your brain seem to help rinse away harmful waste products that could otherwise damage your brain cells. https://www.newscientist.com/article/2222016-a-type-of-brainwave-may-help-clean-your-brain-while-you-sleep/#ixzz64nywwGGF[Ref].
+* Purpose: As you sleep, slow waves of electrical activity in your brain seem to help rinse away harmful waste products that could otherwise damage your brain cells. https://www.newscientist.com/article/2222016-a-type-of-brainwave-may-help-clean-your-brain-while-you-sleep/#ixzz64nywwGGF[Ref].
 
-## Gut and Physiology
+=== Gut and Physiology
 
-*   Gut Microbiome and Body: exercise subtly changes the makeup of our microbiome. may play a role in enhancing athletic performance. [Source](https://www.npr.org/sections/health-shots/2019/06/24/734826163/elite-runners-gut-microbe-makes-mice-more-athletic-could-it-help-the-rest-of-us)
+* Gut Microbiome and Body: exercise subtly changes the makeup of our microbiome. may play a role in enhancing athletic performance. https://www.npr.org/sections/health-shots/2019/06/24/734826163/elite-runners-gut-microbe-makes-mice-more-athletic-could-it-help-the-rest-of-us[Source]

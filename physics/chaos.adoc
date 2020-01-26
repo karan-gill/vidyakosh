@@ -1,5 +1,5 @@
-## Fractals
+== Fractals
 
-## Machine Learning
+== Machine Learning
 
-*   Reservoir computing for predicting dynamical systems: A neural network acts as a “reservoir” that abstracts the higher-dimensional state of a dynamical system into a lower-dimensional state.
+* Reservoir computing for predicting dynamical systems: A neural network acts as a ``reservoir'' that abstracts the higher-dimensional state of a dynamical system into a lower-dimensional state.

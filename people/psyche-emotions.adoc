@@ -1,33 +1,32 @@
-## Emotions
+== Emotions
 
-## Universality of Human Condition
+== Universality of Human Condition
 
-*   Chagnon on yamomamo: [source](https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument) The villages that I became really involved in, like Bisaasi-teri and these were just like my good friends, and even some of my relatives, and it was not like observer-observed kind of relationship. I wept at their funerals, and things like that. They played with my kids in the short time my kids were there. So it's very easy to empathize and recognize, even as an anthropologist or maybe a missionary, how similar these people are to you. They may have exotic customs, and eat grubs an inch long, but basically, when you scratch them, they bleed red and have emotions like yours.
+* Chagnon on yamomamo: https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[source] The villages that I became really involved in, like Bisaasi-teri and these were just like my good friends, and even some of my relatives, and it was not like observer-observed kind of relationship. I wept at their funerals, and things like that. They played with my kids in the short time my kids were there. So it’s very easy to empathize and recognize, even as an anthropologist or maybe a missionary, how similar these people are to you. They may have exotic customs, and eat grubs an inch long, but basically, when you scratch them, they bleed red and have emotions like yours.
 
-### Happiness
+=== Happiness
 
-*   Competition mandates a general level of unhappiness
-*   You can’t opt of competition unless you can let go of desire (meditation). However, you probably do actually want those things and need a balance. Otherwise, negative consequences.
-    *   https://en.wikipedia.org/wiki/Diderot_effect
-*   This is not a bad thing. Negative emotions, such as stress and dissatisfaction, drive change that makes you better
-*   People of an upbeat disposition have previously been found to have a lower risk of heart conditions and premature death. Researchers now say it could also play a role in living a long life. The team behind the study say their findings could also be cause for cheer. ‘A lot of evidence suggests that exceptional longevity is usually accompanied by a longer span of good health and living without disability, so our findings raise an exciting possibility that we may be able to promote healthy and resilient ageing by cultivating psychosocial assets such as optimism,’ said Lewina Lee, the lead author of the study at Boston University School of Medicine.
+* Competition mandates a general level of unhappiness
+* You can’t opt of competition unless you can let go of desire (meditation). However, you probably do actually want those things and need a balance. Otherwise, negative consequences.
+** https://en.wikipedia.org/wiki/Diderot_effect
+* This is not a bad thing. Negative emotions, such as stress and dissatisfaction, drive change that makes you better
+* People of an upbeat disposition have previously been found to have a lower risk of heart conditions and premature death. Researchers now say it could also play a role in living a long life. The team behind the study say their findings could also be cause for cheer. `A lot of evidence suggests that exceptional longevity is usually accompanied by a longer span of good health and living without disability, so our findings raise an exciting possibility that we may be able to promote healthy and resilient ageing by cultivating psychosocial assets such as optimism,' said Lewina Lee, the lead author of the study at Boston University School of Medicine.
 
-### Motivation vs Laziness
+=== Motivation vs Laziness
 
-*   Man goes to extraordinary lengths to invent adrenal surgery over 11 years to cure chronic condition. If he didn’t have this condition, he’d have done what everyone else does -- BBQ, church, kids: https://fox5sandiego.com/2019/07/27/man-cures-himself-after-being-bedridden-11-years/
+* Man goes to extraordinary lengths to invent adrenal surgery over 11 years to cure chronic condition. If he didn’t have this condition, he’d have done what everyone else does – BBQ, church, kids: https://fox5sandiego.com/2019/07/27/man-cures-himself-after-being-bedridden-11-years/
 
-## Psyche & Technology
+== Psyche & Technology
 
-### Need for Belonging
+=== Need for Belonging
 
-*   Social Surrogacy Hypothesis https://www.scientificamerican.com/article/imaginary-friends/
-    *   http://dx.doi.org/10.1016/j.jesp.2008.12.003
-    *   Jaye Derrick and [Shira Gabriel](http://wings.buffalo.edu/psychology/people/faculty/gabriel.html) of the University of Buffalo and [Kurt Hugenberg](http://www.units.muohio.edu/psychology/people/hugenbk.html) of Miami University test what they call the “Social Surrogacy Hypothesis.”
-    *   It appears that experiencing a lack of belonging actually caused people to revel in their favorite TV shows, as though the parasocial relationships with TV characters replaced the flawed relationships that had been recalled.
+* Social Surrogacy Hypothesis https://www.scientificamerican.com/article/imaginary-friends/
+** http://dx.doi.org/10.1016/j.jesp.2008.12.003
+** Jaye Derrick and http://wings.buffalo.edu/psychology/people/faculty/gabriel.html[Shira Gabriel] of the University of Buffalo and http://www.units.muohio.edu/psychology/people/hugenbk.html[Kurt Hugenberg] of Miami University test what they call the ``Social Surrogacy Hypothesis.''
+** It appears that experiencing a lack of belonging actually caused people to revel in their favorite TV shows, as though the parasocial relationships with TV characters replaced the flawed relationships that had been recalled.
 
+== How Thoughts Evolve
 
-## How Thoughts Evolve
-
-*   Initially, people should do whatever they want as long as they aren't hurting other people-- that doesn't mean anything -- the world is complex
-*   If you’re young and not a socialist you have no heart, if you’re old and not a convervative have no brain.
-    * maximum possible ageing effect averages out at a 0.38% increase in Conservative voters per year. The minimum possible ageing effect was only somewhat lower, at 0.32% per year. [ref](https://theconversation.com/hard-evidence-do-we-become-more-conservative-with-age-47910)
+* Initially, people should do whatever they want as long as they aren’t hurting other people– that doesn’t mean anything – the world is complex
+* If you’re young and not a socialist you have no heart, if you’re old and not a convervative have no brain.
+** maximum possible ageing effect averages out at a 0.38% increase in Conservative voters per year. The minimum possible ageing effect was only somewhat lower, at 0.32% per year. https://theconversation.com/hard-evidence-do-we-become-more-conservative-with-age-47910[ref]

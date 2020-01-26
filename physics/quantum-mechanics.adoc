@@ -1,9 +1,8 @@
-:toc:
-toc::[]
+:toc: toc::[]
 
-# Quantum Mechanics
+== Quantum Mechanics
 
-## Real-World Manifestations
+=== Real-World Manifestations
 
 * Quantum Zeno effect in pigeon navigation
 * Quanum tunneling enables catalysis by chlorophyll

@@ -1,1 +1,0 @@
-Condensed notes on explanatory principles.

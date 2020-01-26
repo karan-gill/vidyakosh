@@ -1,43 +1,50 @@
-# Game Theory
+== Game Theory
 
-## Information & Systems
+=== Information & Systems
 
-*   Scaling laws -> multi-level selection -> info flows between agents -> game theory
-*    - game theoretic consideration: after agents reach a level of self-determination, if inequality gets too high, individual redistributive pressures act
-*    - information transmitted across entire system, each layer abstracts info to next layer
-*    - game theoretic constraints: the interests of a free agent do not align with interests of the group. examples are ponzi schemes, parasites, sacrifice, soldiers etc., subprime mortgages.
-*    - Thus society is hierarchical but when the hierarchy concentrates power into few people, then their selfish motives overpower group objectives to bring the group down. Hence any complex society must be democratic to reinforce group objectives.
-*    - information constraints, every agent must understand enough to pass judgement on decisions in a democratic polity. examples are gay marriage, nuclear power, GM food, marijuana.
-*    - increasing specialization is inevitable and goes against this
-*    - ultimate information constraint is when it takes an entire lifetime to reach the cutting edge
-*   ultimate constraint is energy ofcourse but in practice the bounding constraints are game theory and information abstraction
+* Scaling laws -> multi-level selection -> info flows between agents -> game theory
+* {blank}
+** game theoretic consideration: after agents reach a level of self-determination, if inequality gets too high, individual redistributive pressures act
+* {blank}
+** information transmitted across entire system, each layer abstracts info to next layer
+* {blank}
+** game theoretic constraints: the interests of a free agent do not align with interests of the group. examples are ponzi schemes, parasites, sacrifice, soldiers etc., subprime mortgages.
+* {blank}
+** Thus society is hierarchical but when the hierarchy concentrates power into few people, then their selfish motives overpower group objectives to bring the group down. Hence any complex society must be democratic to reinforce group objectives.
+* {blank}
+** information constraints, every agent must understand enough to pass judgement on decisions in a democratic polity. examples are gay marriage, nuclear power, GM food, marijuana.
+* {blank}
+** increasing specialization is inevitable and goes against this
+* {blank}
+** ultimate information constraint is when it takes an entire lifetime to reach the cutting edge
+* ultimate constraint is energy ofcourse but in practice the bounding constraints are game theory and information abstraction
 
-## Cooperation
+=== Cooperation
 
-*   Mechanisms for the evolution of cooperation: in selection, direct reciprocity, indirect reciprocity, network reciprocity and group selection. Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279745/pdf/nihms49939.pdf
-*   Cellular Automata & Game Theory. See parts of http://www.dhushara.com/CA/
+* Mechanisms for the evolution of cooperation: in selection, direct reciprocity, indirect reciprocity, network reciprocity and group selection. Source: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279745/pdf/nihms49939.pdf
+* Cellular Automata & Game Theory. See parts of http://www.dhushara.com/CA/
 
-### Price of Anarchy
+==== Price of Anarchy
 
-*   Optimization by oracles is possible given enough information processing to arrive at correct decision. Examples:
-    *   GI bill gave millions of US soldiers free education, a house, and a job.
-    *   Tech companies prefer to vertically integrate AI, software, and hardware.
-    *   MATLAB is an integrated, managed ecosystem for technical computing.
+* Optimization by oracles is possible given enough information processing to arrive at correct decision. Examples:
+** GI bill gave millions of US soldiers free education, a house, and a job.
+** Tech companies prefer to vertically integrate AI, software, and hardware.
+** MATLAB is an integrated, managed ecosystem for technical computing.
 
-## Incompleteness / Inefficiency
+=== Incompleteness / Inefficiency
 
-*   Price of Anarchy : http://www.cs.princeton.edu/~zdvir/apx11slides/rough-slides.pptx and https://www.cs.ubc.ca/~kevinlb/teaching/cs532l%20-%202013-14/Lectures/Price_of_Anarchy.pdf
-    *   Computer networks: https://www.math.leidenuniv.nl/scripties/OlsthoornMaster.pdf
+* Price of Anarchy : http://www.cs.princeton.edu/~zdvir/apx11slides/rough-slides.pptx and https://www.cs.ubc.ca/~kevinlb/teaching/cs532l%20-%202013-14/Lectures/Price_of_Anarchy.pdf
+** Computer networks: https://www.math.leidenuniv.nl/scripties/OlsthoornMaster.pdf
 
-## Biology
+=== Biology
 
-*   Embryo/mother battle: Embryo tries to extract as many nutrients as possible while mother must keep nutrients for future kids. Hence, the placenta.
-*   Slime molds -- This happens because the nuclei in the 'plasmodium' form are the products of many pairwise fusions between amoeboid haploid individuals. When genetically divergent nuclei come together in the plasmodium form, cheaters have been shown to emerge. However, genetic homogeneity among fusing amoeboid serves to maintain the multicellular plasmodium.
+* Embryo/mother battle: Embryo tries to extract as many nutrients as possible while mother must keep nutrients for future kids. Hence, the placenta.
+* Slime molds – This happens because the nuclei in the `plasmodium' form are the products of many pairwise fusions between amoeboid haploid individuals. When genetically divergent nuclei come together in the plasmodium form, cheaters have been shown to emerge. However, genetic homogeneity among fusing amoeboid serves to maintain the multicellular plasmodium.
 
-## Multi-level selection
+=== Multi-level selection
 
-*   Negentropic systems (negentropy as just discussed above) we notice that they are made up of negentropic components which may be made up of negentropic components. So society is made of organizations which are made of people which are made of cells which are made of subcellular structures which are encoded by genes. This is a hierarchy of negentropic systems. We have hierarchies of negentropic components governed by game theory mediated by information flows between them. Each negentropic system, at every level of hierarchy, has its model of the world and some information available to it.
+* Negentropic systems (negentropy as just discussed above) we notice that they are made up of negentropic components which may be made up of negentropic components. So society is made of organizations which are made of people which are made of cells which are made of subcellular structures which are encoded by genes. This is a hierarchy of negentropic systems. We have hierarchies of negentropic components governed by game theory mediated by information flows between them. Each negentropic system, at every level of hierarchy, has its model of the world and some information available to it.
 
-## Phase Transitions
+=== Phase Transitions
 
-*   Slime molds, locusts, human mobs all form when individuals are threatened and collective action provides a clearly beneficial, optimal solution.
+* Slime molds, locusts, human mobs all form when individuals are threatened and collective action provides a clearly beneficial, optimal solution.

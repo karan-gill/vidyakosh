@@ -1,10 +1,7 @@
 toc: []
 
-The Earth forms a life-planet system. First, Earth's evolution is driven by sunlight. Therefore, minor changes in sunlight radically change the Earth's cimate. Second, Earth's evoution is driven by life processes. Therefore, Earth forms a life-planet system
+The Earth forms a life-planet system. First, Earth’s evolution is driven by sunlight. Therefore, minor changes in sunlight radically change the Earth’s cimate. Second, Earth’s evoution is driven by life processes. Therefore, Earth forms a life-planet system
 
-# Sun-caused Change
+== Sun-caused Change
 
-Minkowski cycles
-Sahara desertification
-20,000 year cycle.
-Civilization collapse: https://en.wikipedia.org/wiki/4.2_kiloyear_event
+Minkowski cycles Sahara desertification 20,000 year cycle. Civilization collapse: https://en.wikipedia.org/wiki/4.2_kiloyear_event

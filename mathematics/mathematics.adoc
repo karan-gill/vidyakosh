@@ -1,50 +1,49 @@
-:toc:
-toc::[]
+:toc: toc::[]
 
 Mathematics
 
-# Differential Equations
+== Differential Equations
 
-## Motivation
+=== Motivation
 
-*   Example of how diffeq explains why traffic stops and starts.
+* Example of how diffeq explains why traffic stops and starts.
 
-## Reaction-Diffusion Systems
+=== Reaction-Diffusion Systems
 
-*    the system can also describe dynamical processes of non-chemical nature. Examples are found in biology, geology and physics (neutron diffusion theory) and ecology: https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system
+* the system can also describe dynamical processes of non-chemical nature. Examples are found in biology, geology and physics (neutron diffusion theory) and ecology: https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system
 
-# Computing
+== Computing
 
-*   Digital vs Analog: Digital computers deal with integers, binary sequences, deterministic logic, algorithms, and time that is idealized into discrete increments. Analog computers deal with real numbers, non-deterministic logic, and continuous functions, including time as it exists as a continuum in the real world. In analog computing, complexity resides in topology, not code. Information is processed as continuous functions of values such as voltage and relative pulse frequency rather than by logical operations on discrete strings of bits. Digital computing, intolerant of error or ambiguity, depends upon precise definitions and error correction at every step. Analog computing not only tolerates errors and ambiguities, but thrives on them. Digital computers, in a technical sense, are analog computers, so hardened against noise that they have lost their immunity to it. Analog computers embrace noise; a real-world neural network needing a certain level of noise to work. Source: https://www.edge.org/conversation/george_dyson-childhoods-end
+* Digital vs Analog: Digital computers deal with integers, binary sequences, deterministic logic, algorithms, and time that is idealized into discrete increments. Analog computers deal with real numbers, non-deterministic logic, and continuous functions, including time as it exists as a continuum in the real world. In analog computing, complexity resides in topology, not code. Information is processed as continuous functions of values such as voltage and relative pulse frequency rather than by logical operations on discrete strings of bits. Digital computing, intolerant of error or ambiguity, depends upon precise definitions and error correction at every step. Analog computing not only tolerates errors and ambiguities, but thrives on them. Digital computers, in a technical sense, are analog computers, so hardened against noise that they have lost their immunity to it. Analog computers embrace noise; a real-world neural network needing a certain level of noise to work. Source: https://www.edge.org/conversation/george_dyson-childhoods-end
 
-# Optimization
+== Optimization
 
-*   Interior point methods, or relaxations, where you have a discrete answer you want—like routing an airplane or which way to turn a car—but the way you get through it is to relax the discrete constraints and use internal degrees of freedom. These interior point methods are the most important algorithms for solving large-scale computational problems. If you just took one of my chips doing a physical version of this, a neurobiologist would have absolutely no idea what was going on in it, but it would make perfect sense in an introductory optimization class. Source: https://www.edge.org/conversation/neil_gershenfeld-morphogenesis-for-the-design-of-design
+* Interior point methods, or relaxations, where you have a discrete answer you want—like routing an airplane or which way to turn a car—but the way you get through it is to relax the discrete constraints and use internal degrees of freedom. These interior point methods are the most important algorithms for solving large-scale computational problems. If you just took one of my chips doing a physical version of this, a neurobiologist would have absolutely no idea what was going on in it, but it would make perfect sense in an introductory optimization class. Source: https://www.edge.org/conversation/neil_gershenfeld-morphogenesis-for-the-design-of-design
 
-## Unsolvability Consequences
+=== Unsolvability Consequences
 
-*   Optimization problems are unsolvable.
-*   Only way to solve a problem is to generate variety, similar to annealing with high temperature.
-*   All species generate random mutations to survive.
-*   Similarly companies generate incubate different ideas in order to tackle problems. Our society must maintain a bunch of ideas to ensure that society covers the correct idea for approach.
+* Optimization problems are unsolvable.
+* Only way to solve a problem is to generate variety, similar to annealing with high temperature.
+* All species generate random mutations to survive.
+* Similarly companies generate incubate different ideas in order to tackle problems. Our society must maintain a bunch of ideas to ensure that society covers the correct idea for approach.
 
-# Information Theory
+== Information Theory
 
-## Principles
+=== Principles
 
-*   threshold theorems. A threshold theorem says I can talk to you as a wave form or as a symbol. If I talk to you as a symbol, if the noise is above a threshold, you’re guaranteed to decode it wrong; if the noise is below a threshold, for a linear increase in the physical resources representing the symbol there’s an exponential reduction in the fidelity to decode it. That exponential scaling means unreliable devices can operate reliably. Source: https://www.edge.org/conversation/neil_gershenfeld-morphogenesis-for-the-design-of-design
-    *   threshold theorems were invented four billion years ago, which is the evolutionary age of the ribosome. The connection there is if you mix chemicals and make a chemical reaction, a yield of a part per 100 is good. When the ribosome—the molecular assembler that makes your proteins—elongates, it makes an error of one in 104. When DNA replicates, it adds one extra error-correction step, and that makes an error in 10-8, and that’s exactly the scaling of threshold theorem. The exponential complexity that makes you possible is by error detection and correction in your construction. It’s everything Shannon and von Neumann taught us about codes and reconstruction, but it’s now doing it in physical systems.
+* threshold theorems. A threshold theorem says I can talk to you as a wave form or as a symbol. If I talk to you as a symbol, if the noise is above a threshold, you’re guaranteed to decode it wrong; if the noise is below a threshold, for a linear increase in the physical resources representing the symbol there’s an exponential reduction in the fidelity to decode it. That exponential scaling means unreliable devices can operate reliably. Source: https://www.edge.org/conversation/neil_gershenfeld-morphogenesis-for-the-design-of-design
+** threshold theorems were invented four billion years ago, which is the evolutionary age of the ribosome. The connection there is if you mix chemicals and make a chemical reaction, a yield of a part per 100 is good. When the ribosome—the molecular assembler that makes your proteins—elongates, it makes an error of one in 104. When DNA replicates, it adds one extra error-correction step, and that makes an error in 10-8, and that’s exactly the scaling of threshold theorem. The exponential complexity that makes you possible is by error detection and correction in your construction. It’s everything Shannon and von Neumann taught us about codes and reconstruction, but it’s now doing it in physical systems.
 
-# Information Compression
+== Information Compression
 
-## Examples
+=== Examples
 
-*   Morphogenesis -- What’s going on in morphogenesis, in part, is compression. A billion bases can specify a trillion cells, but the more interesting thing that’s going on is almost anything you perturb in the genome is either inconsequential or fatal. The morphogenes are a curated search space where rearranging them is interesting—you go from gills to wings to flippers. The heart of success in machine learning, however you represent it, is function representation. The real progress in machine learning is learning representation. How you search hasn’t changed all that much, but how you represent search has. https://www.edge.org/conversation/neil_gershenfeld-morphogenesis-for-the-design-of-design
-    *   Your genome doesn’t store anywhere that you have five fingers. It stores a developmental program, and when you run it, you get five fingers. It’s one of the oldest parts of the genome. Hox genes are an example. It’s essentially the only part of the genome where the spatial order matters. It gets read off as a program, and the program never represents the physical thing it’s constructing. The morphogenes are a program that specifies morphogens that do things like climb gradients and symmetry break; it never represents the thing it’s constructing, but the morphogens then following the morphogenes give rise to you.
+* Morphogenesis – What’s going on in morphogenesis, in part, is compression. A billion bases can specify a trillion cells, but the more interesting thing that’s going on is almost anything you perturb in the genome is either inconsequential or fatal. The morphogenes are a curated search space where rearranging them is interesting—you go from gills to wings to flippers. The heart of success in machine learning, however you represent it, is function representation. The real progress in machine learning is learning representation. How you search hasn’t changed all that much, but how you represent search has. https://www.edge.org/conversation/neil_gershenfeld-morphogenesis-for-the-design-of-design
+** Your genome doesn’t store anywhere that you have five fingers. It stores a developmental program, and when you run it, you get five fingers. It’s one of the oldest parts of the genome. Hox genes are an example. It’s essentially the only part of the genome where the spatial order matters. It gets read off as a program, and the program never represents the physical thing it’s constructing. The morphogenes are a program that specifies morphogens that do things like climb gradients and symmetry break; it never represents the thing it’s constructing, but the morphogens then following the morphogenes give rise to you.
 
-# Emergence
+== Emergence
 
-## Cellular Automata Examples
+=== Cellular Automata Examples
 
-*   CA graphical primer: http://texnology.com/joel.pdf 
-*   http://www.dhushara.com/CA/ 
+* CA graphical primer: http://texnology.com/joel.pdf
+* http://www.dhushara.com/CA/
