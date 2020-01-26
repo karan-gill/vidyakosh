@@ -1,1 +1,15 @@
 Condensed notes on explanatory principles.
+
+== Convert from Markdown to ASCIIdoc
+
+To convert from Markdown to ASCIIdoc, run these commands:
+
+# Convert to Asciidoc:
+  ```find ./ -type f -name "*.md" | xargs -I %   sh -c "\
+       pandoc --atx-headers \
+       --verbose \
+        --wrap=none \
+        --toc \
+        -o %.adoc %"
+  ```
+# Remove `.md`: find -name "*\.adoc" | xargs -I % sh -c "rename 's/\.md//' %"
