@@ -4,15 +4,49 @@
 
 == Thesis:
 
-In the 20th century, we continue tribal affiliation by signalling identity through brands and personas.
+* In the 20th century, we continue tribal affiliation by signalling identity through brands and personas.
 
-== Brands
+== Items as Semiotic Objects
+
+* Dichter relied on depth interviews where people talked about their experience of bathing. This method, which resembled the techniques used by cultural anthropologists, contrasted sharply with the quantitative marketing research methods in use at the time. https://www.economist.com/christmas-specials/2011/12/17/retail-therapy[Source] -- "it wasn’t exactly the smell or price or look or feel of the soap, but all that and something else besides—that is, the gestalt or ‘personality’ of the soap. This was a big idea. Dichter understood that every product has an image, even a ‘soul’, and is bought not merely for the purpose it serves but for the values it seems to embody. Our possessions are extensions of our own personalities, which serve as a ‘kind of mirror which reflects our own image’. Dichter’s message to advertisers was: figure out the personality of a product, and you will understand how to market it."
+** Dichter demonstrated that bathing had an erotic element -- "one of the few occasions when the Puritanical American was allowed to caress himself or herself." -- bathing was more than physical cleansing, but also a psychological cleansing. This insight gave rise to a new campaign slogan: "Be Smart and Get a Fresh Start with Ivory Soap."
+**  Chrysler Corporation to help sell Plymouth cars -- Dichter offered two key insights:
+*** women play an important role in influencing men's purchasing decisions. Among Dichter's recommendations to Chrysler was that the company advertise in women's magazines, a move that was highly successful.
+*** importance of the convertible. People, especially middle-aged men, connected emotionally with sports cars which reminded them of their youth and freedom. Although convertibles accounted for less than 2% of sales, they had symbolic significance in the showroom. Dichter likened the convertible to a mistress, while the sedate, comfortable sedan which most people purchased was associated with a wife.
+** famous slogan for Esso/Exxon. The slogan, "Put a tiger in your tank" was built around the insight that consumers associate motor vehicles with power.
+** Dichter on why people use cigarette lighters - At a deeper, unconscious level people use lighters because it gives them mastery and power. "The capacity to summon fire inevitably gives every human being, child or grownup the sense of power. Reasons go far back into man's history... the ability to control fire is an age-old symbol of man's conquest of the physical world.
+** See photos in this https://www.peterharrington.co.uk/blog/the-birth-of-mad-men-ernest-dichter-psychoanalysis-and-consumerism/[ref]
+
+Dichter's questions for assessing a car's semiotics:
+
+* Which trends do characterise present-day society?
+* Which groups are the focus of attention and what are their demands on their car?
+* Which different groups of drivers are there 
+** with respect to their general values: conformists versus non
+conformists
+** with respect to their lifestyles: singles, families, business people
+** with respect to the significance that their car has for them
+* Which types of cars are there in the market: American/foreign cars?
+* What is the car-maker's corporate brand image? How do the company's image, the brand image and the image of a given make of car interact?
+* How do buyers, non-buyers think? 
+* What does the decision-making and purchasing process look like, if one takes into account friends and the dealer's activities?
+* Which technical features of the car are perceived and in what way?
+* What effect do product names have? Do some car names sound masculine feminine, American, foreign?
+* What impact did past advertising have on brand and product utility perception among the car's target group?
+
+== Brands as Cults or Religions
 
 === Examples
+
+* https://web.archive.org/web/20061206032132/http://newmediagroup.co.uk/pphistory1.htm[Source]
+** The first documented effects of the way in which an audience can be powerfully influenced happened in 1934 when the spectacle of a vestless Clark Gable in the hit movie It Happened One Night sent sales of vests plummeting over night! (Marlon Brando reversed the effect in On The Waterfront!).
+** In the detective thriller Laura, released in October 1944, Dana Andrews drinks an imaginary brand of whiskey called Black Pony. The brand was promptly launched in real life, ending the last resistance to using real products.
+** https://web.archive.org/web/20060922232732/http://newmediagroup.co.uk/pphistory3.htm[Source]  Tom Cruise started the big screen battle when he wore Ray-Ban wayfarers in Risky Business. His sunglasses, a 1952 design, were at the end of their life: annual sales had dropped to 18,000. But Risky Business took sales in 1983 to 360,000. Another Tom Cruise blockbuster, Top Gun, sealed the popularity of Ray-Ban Aviators forevermore, with the style still being sold today.
 
 *  Supreme https://www.cnbc.com/2019/10/10/how-supreme-went-from-small-nyc-skateboard-shop-to-a-global-phenomenon.html[source]
 ** Identity: One explanation for Supreme’s popularity with young consumers — enough so to make them line up for hours at a time — has to do with the idea that the brand’s products are “emblematic of rebellious youth culture.
 ** Ritual: “The magic lies in their ability to take word-of-mouth marketing and turn the launches of their products into sort of micro-experiential events,” Cliff Sloan, a branding expert <snip> “And that means that people have to go to places, buy tickets, get on lists, end up lining up outside stores. That ends up generating a lot of buzz, a lot of curiosity to the public.”
+** Community: "The Supreme brand even sponsors a team of professional skaters", "Billing himself as the “world’s #1 Supreme collector” on an Instagram account where he boasts nearly 140,000 followers, Migraine now owns a massive collection of Supreme products.", "That’s where Supreme’s extremely active resale market heats up, with sites like StockX and other resellers"
 ** Totems: "Supreme also generates buzz with a never-ending lineup of branded curiosities"
 
 == Pop Culture Says Relative
