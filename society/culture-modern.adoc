@@ -1,0 +1,30 @@
+:toc: toc::[]
+
+= Evolution of Modern Culture
+
+== Thesis:
+
+In the 20th century, we continue tribal affiliation by signalling identity through brands and personas.
+
+== Brands
+
+=== Examples
+
+*  Supreme https://www.cnbc.com/2019/10/10/how-supreme-went-from-small-nyc-skateboard-shop-to-a-global-phenomenon.html[source]
+** Identity: One explanation for Supreme’s popularity with young consumers — enough so to make them line up for hours at a time — has to do with the idea that the brand’s products are “emblematic of rebellious youth culture.
+** Ritual: “The magic lies in their ability to take word-of-mouth marketing and turn the launches of their products into sort of micro-experiential events,” Cliff Sloan, a branding expert <snip> “And that means that people have to go to places, buy tickets, get on lists, end up lining up outside stores. That ends up generating a lot of buzz, a lot of curiosity to the public.”
+** Totems: "Supreme also generates buzz with a never-ending lineup of branded curiosities"
+
+== Pop Culture Says Relative
+
+* Culture is relative
+** image:images/Society-culture0.png[alt_text,title="image_tooltip"]
+** Indians say ``Red Indian'' instead of ``Native American''
+** US suspicious of being friendly with children but in India it’s the norm
+** Perspective: A bucolic village is beautiful for a new Yorkers while New York is beautiful for a villager. Cairo is beautiful for a Westerner while Paris is beautiful for a Cairene while Cairo just represents poverty and struggle
+
+
+* Culture is relatively to what came before, like sunglass fashion trends
+
+== Moments of Cross Cultural Confusion
+

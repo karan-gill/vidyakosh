@@ -1,6 +1,6 @@
 :toc: toc::[]
 
-Evolution of Society + Groups
+= Evolution of Society + Groups
 
 == Thesis: How Humans Evolve
 
@@ -101,21 +101,6 @@ Human social evolution occurs as new modes of information exchange between human
 * Social media inflames mob behavior
 ** https://www.washingtonpost.com/news/going-out-guide/wp/2018/06/25/no-the-red-hen-in-d-c-didnt-ask-sarah-huckabee-sanders-to-leave-the-restaurant-is-getting-slammed-anyway/
 ** Sunil Tripathi and Boston Bomber
-
-== Pop Cultural Trends
-
-* Culture is relative
-
-image:images/Society-culture0.png[alt_text,title="image_tooltip"]
-
-* Culture is relatively to what came before, like sunglass fashion trends
-
-== Moments of Cross Cultural Confusion
-
-* Indians say ``Red Indian'' instead of ``Native American''
-* US women call themselves ``yogis''
-* US suspicious of being friendly with children but in India it’s the norm
-* Perspective: A bucolic village is beautiful for a new Yorkers while New York is beautiful for a villager. Cairo is beautiful for a Westerner while Paris is beautiful for a Cairene while Cairo just represents poverty and struggle
 
 == Human Evolution
 
