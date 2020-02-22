@@ -2,7 +2,7 @@
 
 = Evolution of Modern Culture
 
-== Thesis:
+== Thesis
 
 * In the 20th century, we continue tribal affiliation by signalling identity through brands and personas.
 
@@ -49,16 +49,15 @@ conformists
 ** Community: "The Supreme brand even sponsors a team of professional skaters", "Billing himself as the “world’s #1 Supreme collector” on an Instagram account where he boasts nearly 140,000 followers, Migraine now owns a massive collection of Supreme products.", "That’s where Supreme’s extremely active resale market heats up, with sites like StockX and other resellers"
 ** Totems: "Supreme also generates buzz with a never-ending lineup of branded curiosities"
 
-== Pop Culture Says Relative
+== Trends
 
-* Culture is relative
-** image:images/Society-culture0.png[alt_text,title="image_tooltip"]
-** Indians say ``Red Indian'' instead of ``Native American''
-** US suspicious of being friendly with children but in India it’s the norm
-** Perspective: A bucolic village is beautiful for a new Yorkers while New York is beautiful for a villager. Cairo is beautiful for a Westerner while Paris is beautiful for a Cairene while Cairo just represents poverty and struggle
+* Culture is relatively to what came before, like sunglass fashion trends.
 
+== Mating
 
-* Culture is relatively to what came before, like sunglass fashion trends
+* As people move to cities, different ethnicities mix and merge.
+** Africa: https://www.aehnetwork.org/blog/interethnic-and-interfaith-marriages-in-sub-saharan-africa/[Source] and paper[sciencedirect.com/science/article/pii/S0305750X1930316X]
+*** Increasing interethnic marriage shares are likely to be due to the combined effects of increased education levels, urbanization, and changes in norms. Using regression analysis to examine the correlates of being in an interethnic marriage shows an increase in interethnic marriage shares of 4.2 percentage points between the cohort born in 1960 cohort and the one born in 1985, even after education and urban residence are controlled for. Increased mixing and changes in preferences and norms are likely to be driving this effect. In contrast, interfaith marriages have decreased due to a decrease in the share of people identifying with faiths other than Islam and Christianity, in particular the decline in identification with traditional African religions. Thus there is no indication of a change in norms around interfaith marriages.
 
 == Moments of Cross Cultural Confusion
 
