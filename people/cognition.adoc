@@ -1,6 +1,6 @@
-== Cognitive Science
+= Cognitive Science
 
-=== Predictive Coding
+== Predictive Coding
 
 * Ref: https://www.ncbi.nlm.nih.gov/pubmed/23663408
 * Surprisal – What needs to be transmitted is therefore just the difference (a.k.a. the ``prediction error'') between the actual current signal and the predicted one. This affords major savings on bandwidth – this makes prediction error into a kind of proxy (Feldman & Friston 2010) for sensory information itself – prediction error reports the ``surprise'' induced by a mismatch between the sensory signals encountered and those predicted. More formally – and to distinguish it from surprise in the normal, experientially loaded sense – this is known as surprisal
@@ -12,7 +12,45 @@
 * Schizophrenia – Malfunctions within that complex economy (perhaps fundamentally rooted in abnormal dopaminergic functioning) yield wave upon wave of persistent and highly weighted ``false errors'' that then propagate all the way up the hierarchy forcing, in severe cases (via the ensuing waves of neural plasticity) extremely deep revisions in our model of the world. The improbable (telepathy, conspiracy, persecution, etc.) then becomes the least surprising, and – because perception is itself conditioned by the top-down flow of prior expectations – the cascade of misinformation reaches back down, allowing false perceptions and bizarre beliefs to solidify into a coherent and mutually supportive cycle
 * Attention fts very neatly into this emerging unified picture, as a means of variably balancing the potent interactions between top-down and bottom-up influences by factoring in their precision (degree of uncertainty). This is achieved by altering the gain (the ``volume,'' to use a common analogy) on the error-units accordingly. The upshot of this is to ``control the relative influence of prior expectations at different levels'' (Friston 2009, p. 299). In recent work, effects of the neurotransmitter dopamine are presented as one possible neural mechanism for encoding precision (see Fletcher & Frith [2009, pp. 53–54] who refer the reader to work on prediction error and the mesolimbic dopaminergic system such as Holleman & Schultz 1998; Waelti et al. 2001). Greater precision (however encoded) means less uncertainty, and is reflected in a higher gain on the relevant error units (see Friston 2005; 2010; Friston et al. 2009). Attention, if this is correct, is simply one means by which certain error-unit responses are given increased weight, hence becoming more apt to drive learning and plasticity, and to engage compensatory action.
 
-=== Brain Development
+== Brain Development
 
 * https://www.cambridgebrainsciences.com/more/articles/how-superagers-maintain-cognitive-performance-into-their-80s[Superagers] – refers to an older adult whose cognitive performance is the same as a younger adult. Felicia Sun et al., published in the Journal of Neuroscience, looked at the neuroanatomy of older adults, and found that key regions of the brain had higher cortical thickness among superagers, compared to adults who aged normally. To become a superager, Lisa Feldman Barrett (one of the authors of the study above) speculates that it takes both physical and mental activity, and it has to be difficult.
 * ``engaging your child in conversation (versus just flooding them with exposure to words) is critical to language and brain development,'' – [https://www.inc.com/scott-mautz/harvard-mit-study-says-doing-1-simple-thing-is-almost-magical-for-your-childs-brain-development-success.html[popsci ref]] [https://journals.sagepub.com/doi/abs/10.1177/0956797617742725[paper]] – ``children who had experienced more conversational turns with adults exhibited greater left inferior frontal (Broca’s area) activation''
+
+== Imitation
+
+*   https://unix.stackexchange.com/questions/1645/is-there-any-option-with-ls-command-that-i-see-only-the-directories[Source]
+There is vast agreement among ethologists that imitation, the capacity
+to learn to do an action from seeing it done (Thorndyke 1898), is
+present among primates, only in humans, and (probably) in apes (see
+Byrne 1995, Galef 1988, Tomasello & Call 1997, Visalberghi & Fragaszy
+2001, Whiten & Ham 1992).  Therefore, the primary function of mirror
+neurons cannot be action imitation. See secton on [Mirror Neurons].
+
+== Mirror Neurons
+
+https://unix.stackexchange.com/questions/1645/is-there-any-option-with-ls-command-that-i-see-only-the-directories[Source]
+* Mirror neurons are a particular class of visuomotor neurons,
+originally discovered in area F5 of the monkey premotor cortex, that
+discharge both when the monkey does a particular action and when it
+observes anotherindividual(monkey or human) doing a similar action (Di
+Pellegrino et al. 1992, Gallese et al. 1996, Rizzolatti et al. 1996a).
+** Two main hypotheses
+*** Mirror-neuron activity mediates imitation (see
+Jeannerod 1994). Thus, the mirror system transforms visual information into knowledge (see Rizzolatti et al.
+2001). Each time an individual sees an action done by another individual, neurons that represent that action are activated in the
+observer’s premotor cortex. This automatically induced, motor representation of the observed action corresponds to that which is spontaneously generated during
+active action and whose outcome is known to the acting individual.
+*** Mirror neurons are at the basis of action
+understanding (see Rizzolatti et al. 2001). Though, mirror neurons are not the only mechanism for action understanding. The visual features of the observed actions
+are fundamental to trigger mirror neurons only insomuch as they allow the understanding of the observed actions. If action comprehension is possible on another
+basis (e.g., action sound), mirror neurons signal the action, even in the absence of
+visual stimuli.
+*  TMS studies indicate that a mirror-neuron system (a motor resonance system) exists in humans and that it possesses important properties not
+observed in monkeys. First, intransitive meaningless movements produce mirrorneuron system activation in humans(Fadiga et al. 1995, Maeda et al. 2002, Patuzzo
+et al. 2003), whereas they do not activate mirror neurons in monkeys. Second, the
+temporal characteristics of cortical excitability, during action observation, suggest
+that human mirror-neuron systems code also for the movements forming an action
+and not only for action as monkey mirror-neuron systems do. These properties of
+the human mirror-neuron system should play an important role in determining the
+humans’ capacity to imitate others’ action.
