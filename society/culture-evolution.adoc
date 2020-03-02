@@ -26,16 +26,6 @@ Human social evolution occurs as new modes of information exchange between human
 
 * https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[Source] The only way you can live that nice happy free life is if you’re in a small community, like 25 people, most of whom are children. So everything is happy and friendly. People get along with each other. But a village of 25 people is extremely vulnerable to raids from the outside, and the men will come in and steal the women, and send the men packing, or shoot the men and take the women. So they’re constantly being pressured to maximize the size of their village. And as you increase the number of people in the village, you get increasing amounts of conflict. I mean the question I always ask in all villages, why did such and such a group fission away from such and such a group? They’ll say, ``We’ve just got so damn many people that we’re on each other’s nerves all the time, so we just split apart.'' But when the intensity of warfare is high, it would be really hazardous to split apart. And what I often found is, you know, the garden that might be 20 acres large, this is a big garden, and a fight might occur in the village that might be 200 people, and instead of picking up and moving the next valley over, they can’t, because they’re too dependent on their gardens. So they split the group into two parts, each locating in a different part of the garden. Then they begin transplanting their plantain cuttings, their banana cuttings, and tubers to some other location, maybe a day’s walk away, until they get that garden developed to the point that it can feed them. Then they move away. But they may rejoin and move away again. …
 
-== How do civilizations fall?
-
-* Climate
-** Mayans
-** Indus
-* Dictatorship lead to bad kings
-** Romans
-* Economic system fails at managing complexity
-** Soviet Union
-
 == Identity and schism
 
 * The potential benefits of heterogeneity come from variety in production. The costs come from the inability to agree on common public goods and public policies. One testable implication is that more heterogenous societies may exhibit higher productivity in private goods production but lower taxation and lower production of public goods. The benefits in production from variety in skills are more likely to be relevant for more advanced societies. While in poor economies ethnic diversity may not be beneficial form the point of view of productivity, it may be so in rich ones. The more unwilling to share public good or resources are the different groups, the smaller the size of jurisdictions. The larger the benefits in production from variety, the larger the size. If variety in production can be achieved without sharing public goods, different groups will want to create smaller jurisdictions to take advantage of homogeneity in the enjoyment of the public good broadly defined. https://dash.harvard.edu/bitstream/handle/1/4553005/alesinassrn_ethnicdiversity.pdf
@@ -43,21 +33,7 @@ Human social evolution occurs as new modes of information exchange between human
 * Mark Moffett in The Human Swarm says that through a yet unknown process, societies ,or groups in general, develop a schism in identities, that eventually leads to the group’s bifurcation and schism.
 * Ethiopia federal structure is problematic because it is constituted along ethnic lines. Ethiopia has a population of more than 108m and more than 90 ethnic groups. The biggest groups are the Amhara and Oromo. Together they comprise more than 65% of the population. The structure of a federation of 9 regions as ethnic boxes resulted in fierce inter-ethnic competition. This has affected the safety of citizens as well as the freedom of movement. The country does not strong enough institutions such as independent judiciary and agreed conflict resolution mechanisms, unlike the US, which has these mechanisms to manage its federal structure. Trust among regional states was never high, and has deteriorated over the last three decades. Federal government at the centre is too weak to impose its will on the regional administrations. Thus, there aren’t common political and economic national standards across the country.
 
-== Inciting Change
-
-=== Violence / Mob behavior
-
-* Arab Spring
-* Timisoara protests of 1989
-* Hungary protests of 1956
-* Social media inflames mob behavior
-** https://www.washingtonpost.com/news/going-out-guide/wp/2018/06/25/no-the-red-hen-in-d-c-didnt-ask-sarah-huckabee-sanders-to-leave-the-restaurant-is-getting-slammed-anyway/
-** Sunil Tripathi and Boston Bomber
-
 == Evolutionary Psychology
 
 * Responding to criticisms of evolutionary psychology: https://evolution-institute.org/on-common-criticisms-of-evolutionary-psychology/#comments
 
-== Tech Stacks
-
-* Tech stacks are centralized planning just like marxist-leninists except that they have the info and system flexibility to perform centralized planning.
