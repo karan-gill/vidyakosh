@@ -1,9 +1,9 @@
 :toc:
 toc::[]
 
-== Organized Religion
+= Organized Religion
 
-=== Thesis: Structure of Religion
+== Thesis: Structure of Religion
 
 Religions arose with agricultural. Specifically, agriculture allowed social groups in the thousands. These social groups need a mechanism to function. Religion is that mechanism. Therefore, all religions contains rules for treating followers and non-followers. Religions specify how followers can recognize each other. And religions specify how authority derives, and provide mythology for establishing identity.
 
@@ -19,21 +19,29 @@ All religions share the same structure:
 * Pilgrimates, which are rituals that involve great physical displacement towards a sacred space.
 * Inheritance of divinity by representatives on Earth.
 
-=== Cause
+== Cause
 
 * agriculture generally developed around 3000 bc ex Mayans. Was it general stable Holocene climatic factors?
 * Agriculture gave rise to complex societies that needed organizing structure.
 
-=== Religious Mechanisms
+== Religious Mechanisms
 
 Psychological mechanisms by which religions exercise control https://ffrf.org/outreach/awards/emperor-has-no-clothes-award/item/20327-steven-pinker[source]:
 
 * Promise of life and rewards after death
-* Ability to control fate through rituals and appeals to God, such as remove illness, misfortune.
+* Ability to control fate through rituals and appeals to God, such as remove illness, misfortune. From https://www2.psych.ubc.ca/~ara/Manuscripts/AtranNorenzayanBBS.pdf[here], every religion has
+** Widespread counterfactual and counterintuitive beliefs in supernatural agents (gods, ghosts, goblins, etc.)
+** Mastering by supernatural agents of people’s existential anxieties (death, deception, disease, catastrophe, pain, loneliness, injustice, want, loss)
 * Conforming behavior is rewarded by higher powers.
 * Religious practices reveal divine truths and bring believer closer to the higher power.
 
-== Fall
+Social mechanisms, from https://www2.psych.ubc.ca/~ara/Manuscripts/AtranNorenzayanBBS.pdf[here], every religion has
+
+* Hard-to-fake public expressions of costly material commitments to supernatural agents, that is, offering and sacrifice (offerings of goods, property, time, life)
+* Ritualized, rhythmic sensory coordination of (1), (2), and (3), that is, communion (congregation, intimate fellowship, etc.)
+
+
+= Fall of Agrarian Societies
 
 * Climate
 ** Mayans
