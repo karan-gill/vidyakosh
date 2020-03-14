@@ -1,23 +1,47 @@
 :toc: toc::[]
 
-== Culture, Symbolism, Myth, Narrative
+= Culture, Symbolism, Myth, Narrative
 
-=== Myth Formation
+== Myth Formation
 
+* Campbell’s cycle: https://en.wikipedia.org/wiki/Hero%27s_journey
+* Common threads:
+** Good vs evil
+*** Transformers 2: At 6;40 of https://www.youtube.com/watch?v=TJiCBjc49TI, sacrifice for the greater good.
+** Good is the underdog
+** Good wins by virtue of being good
+*** Harry Potter: ``Love'' saved Harry.
+*** Transformers 2: At 3;30 of https://www.youtube.com/watch?v=TJiCBjc49TI the Gods appear in a dream and instruct the hero of honour, duty, goodness and send the hero back. Thus, being ``good'' saves his life.
+
+** Central characters that you get to know close up
+** CC has intense personal stories involving family intrigue, betrayal and love
+** Sex
+** Violence
+** Hero and villain engage in close combat duels where they debate good and evil as much as they actually duel. The debate is at times of grewatest emotional impact in a emotionally charged showdown designed to maximixe thr impact of the message.
+** Characters transcend their personal lives as their struggles have import for entire society
+** Creation myths - unending battle between good and bad, messiah ends the battle
+** Underlying evolutionary reason – society must bind itself together and have rules/identity via narratives
+** A mentor/coming of age
+** Struggles within families; essentially blood feuds; family tragedy
 * https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[Source] Well, their real belief systems about the real world around them blend in at some indefinite point in the past, where you can’t really tell if they’re talking about spirits or creatures that are real and that you can describe. So the borderline between human beings and the netherworld of spirits and deities is very vague. And, in fact, when they want to say something that’s really old, they will say something like, ``Peribö iya dähä''—at the time when moon’s blood spilled to earth.
 ** And when Moon’s blood dropped to Earth, it changed into the Yanomamö, and where the blood was thickest, the Yanomamö were really violent and fierce, and they fought constantly and exterminated each other. And where it thinned out—when it spread through the water—the Yanomamö formed by that blood were more suave and friendlier and they didn’t exterminate themselves, but nevertheless, other Yanomamö, even they were violent and fierce. And where it got almost thinned down to nothing—just water—they were pretty timid, and most of those are foreigners. t almost perfectly fits the geographical distribution of the Yanomamö, except in the southwestern corner. If you look at all the villages of the Yanomamö, the ones to the north and east that are on the periphery are the least aggressive and least violent, and that’s …
 ** {blank}
-+
-=== Ritual
 
-==== Music
+== Ritual
+
+* Armies, churches, organizations, and communities often engage in activities—for example, marching, singing, and dancing—that lead group members to act in synchrony with each other. Synchronous activity may serve as a partial solution to the free-rider problem facing groups that need to motivate their members to contribute toward the collective good. Across three experiments, people acting in synchrony with others cooperated more in
+subsequent group economic exercises, even in situations requiring personal sacrifice. Our results also showed that positive emotions need not be generated for synchrony to foster cooperation. In total, the results suggest that acting in synchrony with others can increase cooperation by
+strengthening social attachment among group members. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1019.1614&rep=rep1&type=pdf[Source]
+** In USA, where social norms preventing strangers from talking are strong, after a Celine Dion concert, concert-goers burst into song in the subway station, even though they're complete strangers. https://newyork.cbslocal.com/2020/03/07/celine-dion-subway-singing/[Source]
+
+=== Music
 
 * https://www.pbs.org/newshour/show/why-music-has-such-profound-effects-on-the-brain
 * Music builds tension to release to tap into pattern recognition apparatus.
 * Or music surprises us. expectation of reward in the brain. At the climax of the piece, release of the pleasure chemical dopamine, for example, in the nucleus accumbens – the part of the brain that is involved in liking.
 * We don’t see the beat, we feel the beat. Beat processing uses the brain engaged in motor planning and motor actions. So we actually feel it within our bodies and in fact there are a bunch of our biological rhythms that in train to the rhythm of different beats. So, for example, we can see this in our brain waves, we can see it in our heart rates, in our pulse, in our breathing. We tend to sync up with the beat, it actually does sort of trigger the parts of your brain that are involved in movement.
 
-==== Effects of Extreme Rituals on Performers
+=== Effects of Extreme Rituals on Performers
 
 * Despite their potential risks, extreme rituals in many contexts are paradoxically associated with health and healing (Jilek https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf24[1982]; Ward https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf51[1984]). Our findings suggest that within those contexts, such rituals may indeed convey certain psychological benefits to their performers. Our physiological measurements show that the kavadi is very stressful and high in energetic demands (https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#[fig. 2C, 2D]). But the ostensibly dangerous ordeal had no detectable persistent harmful effects on participants, who in fact showed signs of improvement in their perceived health and quality of life. We suggest that the effects of ritual participation on psychological well-being occur through two distinct but mutually compatible pathways: a bottom-up process triggered by neurological responses to the ordeal and a top-down process that relies on communicative elements of ritual performance (Hobson et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf22[2017]).
 * Specifically, the bottom-up pathway involves physical aspects of ritual performance related to emotional regulation. Ritual is a common behavioral response to stress (Lang et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf30[2015]; Sosis https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf45[2007]), and anthropological evidence shows that in many cultures dysphoric rituals involving intense and prolonged exertion and/or altered states of consciousness are considered as efficient ways of dealing with various illnesses (Jilek https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf24[1982]). In our study, those who suffered from chronic illnesses engaged in more painful forms of participation by enduring more piercings. Notably, higher levels of pain during the ritual were associated with improvements in self-assessed health post-ritual. Although the pain was relatively short-lived, there is evidence that the social and individual effects of participation can be long-lasting (Tewari et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf49[2012]; Whitehouse and Lanman https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf53[2014]).
@@ -25,7 +49,7 @@
 * At the same time, a top-down pathway involves social-symbolic aspects of ritual. Cultural expectations and beliefs in the healing power of the ritual may act as a placebo (McClenon https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf33[1997]), buffering stress-induced pressures on the immune system (Rabin https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf39[1999]). In addition, social factors can interact with and amplify the low-level effects of physiological arousal (Konvalinka et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf28[2011]). Performed collectively, these rituals can provide additional comfort through forging communal bonds, providing a sense of community and belonging, and building social networks of support (Dunbar and Shultz https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf15[2010]; Xygalatas et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf60[2013]). The Thaipusam is the most important collective event in the life of this community, and higher investments in this ritual are ostensibly perceived by other members as signs of allegiance to the group, consequently enhancing participants’ reputation (Watson-Jones and Legare https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf52[2016]) and elevating their social status (Bulbulia https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf10[2004]; Power https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf36[2017a]). Multiple lines of research suggest that individuals are strongly motivated to engage in status-seeking efforts (Cheng, Tracy, and Henrich https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf12[2010]; Willard and Legare https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf54[2017]) and that there is a strong positive relationship between social rank and subjective well-being (Anderson et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf1[2012]; Barkow et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf3[1975]). Indeed, we found that individuals of lower socioeconomic status were more motivated to invest in the painful activities that can function as costly signals of commitment. Recent evidence from a field study in India shows that those who partake in these rituals indeed reap the cooperative benefits that result from increased status (Power https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf37[2017b]).
 * In addition, the cost of participation can have important self-signaling functions. On the one hand, it can boost performers’ perceived fitness and self-esteem, which positively affects mental health (Barkow et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf3[1975]). On the other hand, through a process of effort justification, such costs can strengthen one’s attachment to the group and sense of belonging (Festinger https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf17[1962]; Sosis https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf44[2003]). This role of costly rituals in generating positive subjective states (Bastian et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf6[2014b]; Fischer et al. https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf18[2014]; Wood https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf56[2016]) and facilitating social bonding (Bastian, Jetten, and Ferris https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf5[2014a]; Whitehouse and Lanman https://www-journals-uchicago-edu.mutex.gmu.edu/doi/full/10.1086/705665#rf53[2014]) may offer insights into the functions of painful religious practices.
 
-=== Symbols
+== Symbols
 
 * Tree of Life
 * Sun
@@ -38,20 +62,5 @@
 ** https://en.wikipedia.org/wiki/Tian[Tian]
 * https://en.wikipedia.org/wiki/List_of_fertility_deities[Fertility Deities]
 
-=== Narrative + Stories
+== Narrative + Stories
 
-Narratives: Why we love Star Wars, Harry Potter, the Lion King, Spiderman, the Mahabharata,
-
-Campbell’s cycle: https://en.wikipedia.org/wiki/Hero%27s_journey
-
-Common threads: * Good vs evil * Good is the underdog * Good wins by virtue of being good * Central characters that you get to know close up * CC has intense personal stories involving family intrigue, betrayal and love * Sex * Violence * Hero and villain engage in close combat duels where they debate good and evil as much as they actually duel. The debate is at times of grewatest emotional impact in a emotionally charged showdown designed to maximixe thr impact of the message. * Characters transcend their personal lives as their struggles have import for entire society * Creation myths - unending battle between good and bad, messiah ends the battle * Underlying evolutionary reason – society must bind itself together and have rules/identity via narratives * A mentor/coming of age * Struggles within families; essentially blood feuds; family tragedy
-
-Transformers 2
-
-At 3;30 of https://www.youtube.com/watch?v=TJiCBjc49TI the Gods appear in a dream and instruct the hero of honour, duty, goodness and send the hero back. Thus, being ``good'' saves his life.
-
-At 6;40 of the same, sacrifice for the greater good.
-
-Harry Potter
-
-``Love'' saved HP. Good vs evil.
