@@ -29,28 +29,4 @@ neurons cannot be action imitation. See secton on [Mirror Neurons].
 
 == Mirror Neurons
 
-https://unix.stackexchange.com/questions/1645/is-there-any-option-with-ls-command-that-i-see-only-the-directories[Source]
-* Mirror neurons are a particular class of visuomotor neurons,
-originally discovered in area F5 of the monkey premotor cortex, that
-discharge both when the monkey does a particular action and when it
-observes anotherindividual(monkey or human) doing a similar action (Di
-Pellegrino et al. 1992, Gallese et al. 1996, Rizzolatti et al. 1996a).
-** Two main hypotheses
-*** Mirror-neuron activity mediates imitation (see
-Jeannerod 1994). Thus, the mirror system transforms visual information into knowledge (see Rizzolatti et al.
-2001). Each time an individual sees an action done by another individual, neurons that represent that action are activated in the
-observer’s premotor cortex. This automatically induced, motor representation of the observed action corresponds to that which is spontaneously generated during
-active action and whose outcome is known to the acting individual.
-*** Mirror neurons are at the basis of action
-understanding (see Rizzolatti et al. 2001). Though, mirror neurons are not the only mechanism for action understanding. The visual features of the observed actions
-are fundamental to trigger mirror neurons only insomuch as they allow the understanding of the observed actions. If action comprehension is possible on another
-basis (e.g., action sound), mirror neurons signal the action, even in the absence of
-visual stimuli.
-*  TMS studies indicate that a mirror-neuron system (a motor resonance system) exists in humans and that it possesses important properties not
-observed in monkeys. First, intransitive meaningless movements produce mirrorneuron system activation in humans(Fadiga et al. 1995, Maeda et al. 2002, Patuzzo
-et al. 2003), whereas they do not activate mirror neurons in monkeys. Second, the
-temporal characteristics of cortical excitability, during action observation, suggest
-that human mirror-neuron systems code also for the movements forming an action
-and not only for action as monkey mirror-neuron systems do. These properties of
-the human mirror-neuron system should play an important role in determining the
-humans’ capacity to imitate others’ action.
+No evidence exists for mirror neurons. Predictive coding provides an explanation for brain behavior that doesn't require mirror neurons. Predictive coding says that the brain is simulating what's going to happen, and that simulation explains the phenomena attributed to mirror neurons.
