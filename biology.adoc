@@ -9,6 +9,7 @@ http://en.wikipedia.org/wiki/Quorum_sensing
 == Genetic Evolutionary Mechanisms
 
 * Genetic drift
+** Energy barriers create smaller subpopulations for faster evolution. From https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2702[paper], "the dynamics of diversification of terrestrial mammals are more affected by physical barriers or ecological heterogeneity within ranges than those of non-terrestrial mammals, at two evolutionary levels." When taxa are separated by ecological substrate, non-terrestrial (note:birds) groups show much stronger correlations between taxonomic richness at the two levels than terrestrial mammals do. As these processes also appear more tightly coupled in birds, we suggested fundamental factors unique to terrestrial habitats, such as increased exposure to ecological or physical barriers, increasingly become the causal drivers of divergence at two levels.
 * Natural selection
 * Lateral transfer of genes
 * Symbiosis
