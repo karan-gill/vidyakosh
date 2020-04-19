@@ -1,32 +1,38 @@
 :toc: toc::[]
 
-== To be Sorted
-
-http://en.wikipedia.org/wiki/Biofilm
-
-http://en.wikipedia.org/wiki/Apoptosis
+= To be Sorted
 
 http://en.wikipedia.org/wiki/Quorum_sensing
 
-== Biology
+= Biology
 
-=== Genetic Evolutionary Mechanisms
+== Genetic Evolutionary Mechanisms
 
 * Genetic drift
 * Natural selection
 * Lateral transfer of genes
 * Symbiosis
 
-=== Symbiotic relationships
+== Cellular Control
 
-* Heterokaryon – one example is slime molds. This happens because the nuclei in the `plasmodium' form are the products of many pairwise fusions between https://en.wikipedia.org/wiki/Amoeboid[amoeboid] https://en.wikipedia.org/wiki/Haploid[haploid] individuals. When genetically divergent nuclei come together in the plasmodium form, cheaters have been shown to emerge. However, genetic homogeneity among fusing amoeboid serves to maintain the multicellular plasmodium.
+=== Apoptosis (Cell Death)
 
-=== Systems Biology
+http://en.wikipedia.org/wiki/Apoptosis[Apoptosis] is programmed cell death that can be initiated through one of two pathways. In the intrinsic pathway the cell kills itself because it senses cell stress, while in the extrinsic pathway the cell kills itself because of signals from other cells. 
 
-==== Control Theory
+=== Control Theory
 
 * https://www.quantamagazine.org/math-reveals-the-secrets-of-cells-feedback-circuitry-20190918/[Source] - https://doi.org/10.1016/j.cels.2016.01.004[paper] - two controller molecules must have a very specific relationship: They have to bind to each other and neutralize each other’s biological activity. One must be the antithesis of the other. In this negative feedback loop, an activator molecule would stimulate production of a desired protein. In turn, that protein’s concentration would determine the rate of production for an anti-activator molecule, one that sequestered the activator. If something perturbed the system, any error in protein levels would be corrected through a corresponding change in the rate of anti-activator production. Best of all, because the activator and anti-activator molecules would seek out and neutralize each other, this loop would work even in a noisy cell.
 
-==== Heuristics
+== Organism Control
+
+=== Heuristics
 
 * Immune system balance point: While an overactive immune system is better at fending off parasites, it may also lead to higher risk of autoinflammatory and autoimmune diseases. [https://voices.uchicago.edu/dfiwellnews/2018/09/12/evolution-of-the-human-immune-response/[ref]]
+
+== Colony Control
+
+* Heterokaryon – A heterokaryon is a multinucleate cell that contains genetically different nuclei. One example is slime molds. This happens because the nuclei in the `plasmodium' form are the products of many pairwise fusions between https://en.wikipedia.org/wiki/Amoeboid[amoeboid] https://en.wikipedia.org/wiki/Haploid[haploid] individuals. When genetically divergent nuclei come together in the plasmodium form, cheaters have been shown to emerge. However, genetic homogeneity among fusing amoeboid serves to maintain the multicellular plasmodium.
+* https://en.wikipedia.org/wiki/Colony_(biology)[Clonal colonial organisms] - Colonial organisms are clonal colonies composed of many physically connected, interdependent individuals. The subunits of colonial organisms can be unicellular, as in the alga Volvox (a coenobium), or multicellular, as in the phylum Bryozoa. The former type may have been the first step toward multicellular organisms. Individuals within a multicellular colonial organism may be called ramets, modules, or zooids.
+** http://en.wikipedia.org/wiki/Biofilm[Biofilm] - Colony of microorganisms often comprising several species, with properties and capabilities greater than the aggregate of capabilities of the individual organisms.
+*** TODO: Research how common it is for "several species" to comprise a biofilm?
+** https://en.wikipedia.org/wiki/Quorum_sensing[Quorum sensing] Many species of bacteria use quorum sensing to coordinate gene expression according to the density of their local population. In a similar fashion, some social insects use quorum sensing to determine where to nest. Quorum sensing has several useful applications for computing and robotics. In general, quorum sensing can function as a decision-making process in any decentralized system in which the components have: (a) a means of assessing the number of other components they interact with and (b) a standard response once a threshold number of components is detected.
