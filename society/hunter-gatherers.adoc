@@ -1,7 +1,7 @@
 :toc:
 toc::[]
 
-== Hunter Gatherers and Tribes
+= Hunter Gatherers and Tribes
 
 * Animism
 ** Ancestor worship
@@ -10,14 +10,55 @@ toc::[]
 * Signs of increasing hierarchy
 ** Hereditary chiefship
 
-=== Sexual Relations
+== Ritual
+https://monoskop.org/images/4/41/Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.pdf[Bronislaw Malinowski - Magic, Science and Religion]
+
+=== Initiation Ritual and Myth
+
+Novices undergo a period of seclusion and preparation. Then comes initiation proper, in which the youth, passing through a series of ordeals, is finally submitted to an act of bodily mutilation: at the mildest, a slight incision or the knocking out of a tooth; or, more severe, circumcision; or, really cruel and dangerous, an operation such as the subincision practiced in some Australian tribes. The ordeal symbolizes the death and rebirth of the initiated one. Besides the ordeal, the second main aspect is the systematic instruction of the youth in sacred myth and tradition, the gradual unveiling of tribal mysteries and the exhibition of sacred objects.
+
+Tribal mysteries are unveiled by legendary ancestors or culture heroes, or by a Superior Being. Sometimes, this entity is said to swallow or kill youths and then to restore them again as fully initiated men. This entity's voice is imitated by the hum of the bull-roarer to inspire awe in the uninitiated women and children. Through these ideas, initiation brings the novice into relationship with higher powers and personalities, such as the Guardian Spirits and Tutelary Divinities of the North American Indians, the Tribal All-Father of some Australian Aborigines, the Mythological Heroes of Melanesia and other parts of the world. This is the third fundamental element, besides ordeal and the teaching of tradition, in the rites of passing into manhood.
+
+Let us realize that in primitive conditions tradition is of supreme value for the community and nothing matters as much as the conformity and conservatism of its members. Order and civilization can be maintained only by strict adhesion to the lore and knowledge received from previous generations. Any laxity in this weakens the cohesion of the group and imperils its cultural outfit to the point of threatening its very existence.
+
+== Magic
+https://monoskop.org/images/4/41/Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.pdf[Bronislaw Malinowski - Magic, Science and Religion]
+
+What is the cultural function of magic? Man has knowledge gaps and the limitations of observation and reason. Human organism reacts to these situations in spontaneous coping outbursts of belief and rite. Magic standardizes these beliefs, rites into permanent traditional forms. Thus magic provides ready-made ritual acts and beliefs as a practical technique to bridge gaps in pursuits or critical situations. Magic gives humans confidence, poise and mental integrity in difficult situations.
+* Example of Melanesians:
+** The success in their agriculture depends on knowledge of soil, plants, and importance of accurate and hard work. Yet they use magic: a series of rites performed every year over the gardens in rigorous sequence and order. Magic is regarded by Melanesians as indispensable to the welfare of the gardens. Melanisians don't attribute all the good results to magic. Instead, they know that inspite of all efforts, agencies beyond control affect gardens. To control these influences and these only he employs magic.
+** What has been said about gardens applies to other activities like canoe building. There too, Melanisians suffer monsoon gales and unknown reefs. They perform magic during canoe construction, in expeditions, and in danger. 
+** In the Trobriand Islands, in villages on the inner lagoon, fishing is easy and reliable by poisoning. In open sea, fishing is dangerous and unreliable. In lagoon fishing, magic does not exist, while in the open-sea fishing, magical ritual secure safety and good results.
+
+=== Mechanism of Magic
+https://monoskop.org/images/4/41/Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.pdf[Bronislaw Malinowski - Magic, Science and Religion]
+
+* Magic has strict conditions: exact remembrance of a spell, unimpeachable performance of the rite, unswerving adhesion to the taboos and observances which shackle the magician. If any is neglected, magic fails.
+** Counter-Magic: Even if magic is perfect, its effects can be undone: for every magic has counter-magic. In Melanesia, all magical acts have counter-acts. In certain types of magic, like health and disease, the formulas are in couples.      
+
+Magic requires:
+* Power of spell: Most important element in magic is the spell. The spell is known only to the practitioner. To the natives knowledge of magic means knowledge of spell.
+* Three typical elements in magical efficiency:
+** Phonetic effects: Imitations of natural sounds, such as wind, thunder, sea, animals. These sounds symbolize phenomena or emotional states associated with desire of the magic.
+** Words to invoke the aim. Thus,the sorcerer will mention all symptoms of the inflicted disease or lethal formula. In healing magic the wizard describes perfect health. In economic magic, the plants, animals, fish. The magician uses words and sentences express the emotion under the stress of which he works his magic, and the action which gives expression to this emotion.
+*** Mythological allusions, references to ancestors and culture heroes from whom this magic has been received.
+
+Magic is not derived from nature. Magic is a primeval possession of man from tradition and man's power to create desired ends. Magic is the one power residing in man. Magic comes from man's magical art, his voice, and conveyed by the rite.
+The magician's body, holding and channeling magic, must follow taboos, or else the spell might be injured. In Melanesia, the spell is in the magician's belly, which is the seat of memory as well as of food. When needed, magic is summoned to the larynx, which is the seat of intelligence, and sent forth by the voice, the main organ of the human mind. Thus, not only is magic a human possession, but it is literally and actually enshrined in man and can be handed on only from man to man, according to very strict rules of magical filiation, initiation, and instruction. It is thus never conceived as a force of nature,
+
+=== Magic vs. Religion
+https://monoskop.org/images/4/41/Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.pdf[Bronislaw Malinowski - Magic, Science and Religion]
+
+While magic's aim is clear, not in religious ceremony. The Melanesian knows magic's aim, but for religious ceremony will cite usage, ordainment, or an explanatory myth.
+
+== Sexual Relations
 
 * Divsion of labour - yanomamo - women do a lot of collecting of plants, and fish, and little tiny shrimps, and things like that. They make a lot of useful additions to the larder, but the men do most of the game hunting, and that requires a lot of endurance, and running, and not being hindered by babies. https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[Source]
 ** You can’t really classify the Yanomamö as monogamous, polygamous, and polyandrous. Nor do I suspect you can do that with any society, or at least societies of the sort that you’re interested in, like hunters and gatherers, transisting from hunting and gathering, to agriculture; or early agricultural societies like the Yanomamö. You have to look at marriage as a life history event. So when you’re young and don’t have a lot of kinsmen, the best game in town might be sharing a wife with your brother. So at that point your marriage is polyandrous. Then as you age, or your kinship fortunes increase—like more of your own kinsmen move to your village—then you might be able to do a wife all by yourself. And then if you become politically important and have a lot of relatives and lots of sisters to give away in marriage, you might end up with two or three wives. The most wives a Yanomamö I know has ever had is six at the same time.
 ** They formally acknowledge marriage.
 ** Big villages lord over small villages. So if you’re seeking an ally who will protect you from the people up the hill who are bigger than you, you’re at a disadvantage because in order to get allies, you’ve got to give women to them. It’s an economics game where the smaller village has to pay up front for the privileges of the alliance, and the bigger village tends to default on many of its agreements. So big villages tend to exploit small villages. It’s always a good idea to live in a big village; however, it’s like living in a powder keg.
 
-=== Violence
+== Violence
 
 * The further back in time you go, the more that unpleasant things are ubiquitous in your environment. Violence is just around the corner, and wishing for a return to the noble savage past is possibly one of the biggest errors. Pueblo houses built into the edge of the Grand Canyon, with a 1,000-foot drop below, and these houses were occupied by prehistoric Indians who were so terrified of their neighbors that they’d climb down vines and ropes with their kids on their back, and firewood under their arm, and the day’s catch in their baskets, because they were just terrified of their neighbors. And that’s the way the Yanomamö live. Even the missionaries who have lived among the Yanomamö the longest have pointed out repeatedly to me and other people that these people are terrified of neighbors. https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[Source]
 

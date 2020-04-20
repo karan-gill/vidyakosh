@@ -10,6 +10,13 @@ Psychology
 * Intelligence, or IQ, is a replicable test. IQ is the best predictor of life outcome.
 * More intelligent brains show faster nerve conduction, less glucose utilization in positron emission tomography, faster reaction times (RTs), faster inspection times, faster speeds in general, and greater circumference and volume. Observations concerning intelligence could be explained if much variance in intelligence reflects myelination differences. See Miller, E. M. (1994). Intelligence and brain myelination: A hypothesis.
 
+= Big Five
+
+== Conscientiousness
+
+* https://monoskop.org/images/4/41/Malinowski_Bronislaw_Magic_Science_and_Religion_and_Other_Essays_1948.pdf[Source]
+** Hard work in Melanesians: "Melanesians who inhabit the coral atolls to the N.E. of the main island, the Trobriand Archipelago and the adjoining groups, are expert fishermen, industrious manufacturers and traders, but they rely mainly on gardening for their subsistence. With the most rudimentary implements, a pointed digging-stick and a small axe, they are able to raise crops sufficient to maintain a dense population and even yielding a surplus, which in olden days was allowed to rot unconsumed, and which at present is exported to feed plantation hands. The success in their agriculture depends -- besides the excellent natural conditions with which they are favored -- upon their extensive knowledge of the classes of the soil, of the various cultivated plants, of the mutual adaptation of these two factors, and, last not least, upon their knowledge of the importance of accurate and hard work. They have to select the soil and the seedlings, they have appropriately to fix the times for clearing and burning the scrub, for planting and weeding, for training the vines of the yam plants. [MB 28] In all this they are guided by a clear knowledge of weather and seasons, plants and pests, soil and tubers, and by a conviction that this knowledge is true and reliable, that it can be counted upon and must be scrupulously obeyed."
+
 = Emotions
 
 == Happiness
@@ -35,6 +42,5 @@ Psychology
 
 = How Thoughts Evolve
 
-* Initially, people should do whatever they want as long as they aren’t hurting other people– that doesn’t mean anything – the world is complex
 * If you’re young and not a socialist you have no heart, if you’re old and not a convervative have no brain.
 ** maximum possible ageing effect averages out at a 0.38% increase in Conservative voters per year. The minimum possible ageing effect was only somewhat lower, at 0.32% per year. https://theconversation.com/hard-evidence-do-we-become-more-conservative-with-age-47910[ref]
