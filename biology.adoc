@@ -26,6 +26,12 @@ http://en.wikipedia.org/wiki/Apoptosis[Apoptosis] is programmed cell death that 
 
 == Organism Control
 
+=== Morphogenesis
+
+See "Mathematics" for theory. This section covers implementation in biology.
+
+* Transmembrane voltage potential is a biophysical signal for eye induction in Xenopus laevis https://dev.biologists.org/content/139/2/313[ref].
+
 === Heuristics
 
 * Immune system balance point: While an overactive immune system is better at fending off parasites, it may also lead to higher risk of autoinflammatory and autoimmune diseases. [https://voices.uchicago.edu/dfiwellnews/2018/09/12/evolution-of-the-human-immune-response/[ref]]
