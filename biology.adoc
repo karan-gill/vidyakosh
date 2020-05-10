@@ -30,6 +30,7 @@ http://en.wikipedia.org/wiki/Apoptosis[Apoptosis] is programmed cell death that 
 
 See "Mathematics" for theory. This section covers implementation in biology.
 
+* Morphogenetic https://distill.pub/2020/growing-ca/[experiments] using cellular automata and machine learning
 * Transmembrane voltage potential is a biophysical signal for eye induction in Xenopus laevis https://dev.biologists.org/content/139/2/313[ref].
 
 === Heuristics
