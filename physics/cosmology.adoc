@@ -1,0 +1,19 @@
+:toc: toc::[]
+
+= Big Bang
+
+= Galaxy Formation
+
+= Star Evolution
+
+= Planetary Systems
+
+Planets and planetesimals interact to influence each other's orbits. Planetesimats are bodies that can attract other bodies with their gravity. Typically, planetesimals are >1 km across. https://en.wikipedia.org/wiki/Planetesimal[Source].
+
+Planets form from the gas disk surrounding a star. Then, the following https://en.wikipedia.org/wiki/Planetary_migration[interactions] occur:
+* If planets with masses of around an Earth mass or greater form while the gas is still present, the planets can exchange angular momentum with the surrounding gas in the protoplanetary disk so that their orbits change gradually.
+* During the late phase of planetary system formation, massive protoplanets and planetesimals gravitationally interact in a chaotic manner causing many planetesimals to be thrown into new orbits. This results in angular-momentum exchange between the planets and the planetesimals, and leads to migration (either inward or outward). Outward migration of Neptune is believed to be responsible for the resonant capture of Pluto and other Plutinos into the 3:2 resonance with Neptune.
+
+== Solar System ==
+
+From https://en.wikipedia.org/wiki/Planetary_migration#In_the_Solar_System[Wikipedia], after the formation of the Solar System, the orbits of all the giant planets continued to change slowly, influenced by their interaction with the large number of remaining planetesimals. After 500–600 million years (about 4 billion years ago) Jupiter and Saturn divergently crossed the 2:1 orbital resonance, in which Saturn orbited the Sun once for every two Jupiter orbits. This resonance crossing increased the eccentricities of Jupiter and Saturn and destabilized the orbits of Uranus and Neptune. Encounters between the planets followed causing Neptune to surge past Uranus and plough into the dense planetesimal belt. The planets scattered the majority of the small icy bodies inwards, while moving outwards themselves. These planetesimals then scattered off the next planet they encountered in a similar manner, moving the planets' orbits outwards while they moved inwards. This process continued until the planetesimals interacted with Jupiter, whose immense gravity sent them into highly elliptical orbits or even ejected them outright from the Solar System. This caused Jupiter to move slightly inward. This scattering scenario explains the trans-Neptunian populations' present low mass. In contrast to the outer planets, the inner planets are not believed to have migrated significantly over the age of the Solar System, because their orbits have remained stable following the period of giant impacts.
