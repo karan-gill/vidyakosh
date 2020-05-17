@@ -1,5 +1,9 @@
 :toc: toc::[]
 
+= Why Cosmology
+
+Cosmology satisfies our curiousity on existence. Furthemore, Cosmology also provides clues to just how likely life is in the universe. Are planets with Earth's gravity, temperatures, crust composition, lack of asteroid impacts etc. common or rare? Is Earth's existence a lucky roll of the dice? Cosmology answers these questions.
+
 = Big Bang
 
 = Galaxy Formation
