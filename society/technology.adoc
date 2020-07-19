@@ -16,6 +16,7 @@ Sometimes as part of the ``workarounds'' to make society function. Ex: TV fills 
 ** Laurie Voss, CTO and cofounder of NPM, took the ``https://twitter.com/seldo/status/712414400808755200[unprecedented]'' step of restoring the unpublished left-pad 0.0.3 that apps required. Normally, when a particular version is unpublished, it’s gone and cannot be restored.
 * 2019-06-16 – Argentina-Uruguay-Paraguay electricity grid failed due to single point of failure in Argentina https://www.npr.org/2019/06/16/733191328/millions-in-argentina-and-uruguay-without-electricity-after-power-failure[ref]
 * 2019-06-16 – Target’s cash registers fail nationwide https://www.engadget.com/2019/06/16/target-cash-register-outage/[ref]
+* 2019-06-09 - https://www.engadget.com/honda-cyberattack-suspends-global-production-140545697.html[Cyberattack] forces Honda to suspend global production for a day
 
 === Human evolved for hunter-gatherer
 
