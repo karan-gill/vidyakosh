@@ -2,6 +2,8 @@
 
 Economics
 
+This document describes principles, models, theories, and systems in economics. For information specific to historic time-periods, see files under 'Society'.
+
 TODO: This document needs work.
 
 = Fundamentals
@@ -27,13 +29,14 @@ TODO: This document needs work.
 
 == International Monetary System
 
-2018 https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/understanding-roots-trade-deficit[source] After World War II, a new international monetary system called Bretton Woods was created that would draw lessons from the previous gold standards abandoned after World War I and the experiences of the Great Depression. Bretton Woods established (1) the U.S. dollar was to be an international reserve currency, (2) the U.S. dollar would be backed by gold at a price of $35 per ounce, and (3) any country could exchange dollars for gold. This new system facilitated and stabilized global trade, especially trade among the industrialized nations.
+2018 https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/understanding-roots-trade-deficit[source]
+* After World War II, a new international monetary system called Bretton Woods was created that would draw lessons from the previous gold standards abandoned after World War I and the experiences of the Great Depression. Bretton Woods established (1) the U.S. dollar was to be an international reserve currency, (2) the U.S. dollar would be backed by gold at a price of $35 per ounce, and (3) any country could exchange dollars for gold. This new system facilitated and stabilized global trade, especially trade among the industrialized nations.
+* However, after years of expansionary growth in U.S. aggregate demand in the 1960s, countries running trade surpluses with the U.S. sought to exchange their dollars for gold, which rapidly shrunk U.S. gold reserves. The U.S. then ran the risk of failing to meet its obligation to redeem dollars for gold at the official price. Thus, President Richard Nixon effectively ended the Bretton Woods system in 1971.1
+* The U.S. decision to end dollar convertibility to gold and the subsequent collapse of the Bretton Woods system in the early 1970s meant that the world economy entered a new era: The U.S. dollar became the global currency, and U.S. government securities became the most-demanded foreign reserve in the world. This outcome resulted from the historical strength of the U.S. currency. Consequently, the dollar became as good as gold (despite the fact that it is a fiat currency), which fuels demand for U.S. currency and securities to be used both as an international medium of exchange and store of value.
+* When the U.S. can purchase goods from the world market simply by printing money or issuing debt, it is destined to run persistent trade deficits. Indeed, just a few years after the end of the Bretton Woods system, the U.S. trade balance started to show persistent and growing deficits, which continue today.
 
-However, after years of expansionary growth in U.S. aggregate demand in the 1960s, countries running trade surpluses with the U.S. sought to exchange their dollars for gold, which rapidly shrunk U.S. gold reserves. The U.S. then ran the risk of failing to meet its obligation to redeem dollars for gold at the official price. Thus, President Richard Nixon effectively ended the Bretton Woods system in 1971.1
-
-The U.S. decision to end dollar convertibility to gold and the subsequent collapse of the Bretton Woods system in the early 1970s meant that the world economy entered a new era: The U.S. dollar became the global currency, and U.S. government securities became the most-demanded foreign reserve in the world. This outcome resulted from the historical strength of the U.S. currency. Consequently, the dollar became as good as gold (despite the fact that it is a fiat currency), which fuels demand for U.S. currency and securities to be used both as an international medium of exchange and store of value.
-
-When the U.S. can purchase goods from the world market simply by printing money or issuing debt, it is destined to run persistent trade deficits. Indeed, just a few years after the end of the Bretton Woods system, the U.S. trade balance started to show persistent and growing deficits, which continue today.
+2019 https://fas.org/sgp/crs/row/IF10619.pdf[source]
+* The dollar, as a de facto global reserve currency, facilitates the trade deficit by broadening the availability of dollars and dollar-denominate assets. Without this unique role, the United States would have faced major challenges sustaining trade deficits without making domestic economic adjustments.
 
 == Money Needs Institutional Backing
 
