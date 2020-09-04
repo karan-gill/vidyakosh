@@ -9,6 +9,12 @@ Religion cannot change. Religious laws are codified in books and enforced absolu
 
 For further context on nation states, you’ll find it useful to read the reasons that created the https://en.wikipedia.org/wiki/Peace_of_Westphalia[Peace of Westphalia].
 
+== Economics
+
+For principles and models, see economics.adoc.
+
+* From https://www.stlouisfed.org/publications/regional-economist/third-quarter-2018/understanding-roots-trade-deficit[source] Historically, industrialization has three phases: (1) the first industrial revolution features labor-intensive mass production, (2) the second industrial revolution features capital-intensive mass production, and (3) the welfare revolution features a service-oriented welfare state.
+
 == Law & Order
 
 * https://www.edge.org/conversation/napoleon-chagnon-blood-is-their-argument[Source] What about standing back and saying ``We’re avenging that death, which was caused when they avenged the previous death, and the cycle of violence keeps going on. Is there some way that we can extricate ourselves from this cycle?''
