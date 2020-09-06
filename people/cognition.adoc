@@ -1,5 +1,10 @@
 = Cognitive Science
 
+== Intelligence
+
+https://www.frontiersin.org/articles/10.3389/neuro.09.031.2009/full[source] With 86 billion neurons, the human brain is a scaled-up primate brain in its cellular composition and metabolic cost. (it is) remarkable in its cognitive abilities and metabolism simply because of its extremely large
+number of neurons.
+
 == Predictive Coding
 
 * Ref: https://www.ncbi.nlm.nih.gov/pubmed/23663408
