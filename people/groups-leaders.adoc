@@ -8,9 +8,6 @@
 
 === Organizational Trust
 
-* Face to face time, talking enough
-* Allow chats bferoe/after meetings
-
 == Innovation & Decision Making
 
 * Peer pressure speeds decision making: PP can overcome barriers imposed upon a consensus by the existence of tightly connected communities with local leaders or the existence of leaders with poor cohesiveness of opinions. A moderate level of PP is also necessary to explain the rate at which innovations diffuse through a variety of social groups. How Peer Pressure Shapes Consensus, Leadership, and Innovations in Social Groups https://www.nature.com/articles/srep02905?WT.ec_id=SREP-20131015
@@ -23,3 +20,12 @@
 *** Amos Tversky and Daniel Kahneman
 ** Patagonia+North Face: Mountain of Storms: Before they were magnates of the outdoors, Patagonia founder Yvon Chouinard and The North Face’s co-founder Doug Tompkins, in 1968, they and three friends — now-famous rock climber Chris Jones, U.S. ski/snowboard Hall of Famer Dick Dorworth, and Mountainfilm founder Lito Tejada-Flores — set off from San Francisco to Patagonia.
 ** Hao Huang proved sensitivity conjecture – https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/[ref] – Hao learned problem in 2012 and solved in 2019 – starting in 2013 he conjectured a new approach and thought about approach for 5 years – 2018 he had a brainwave about a leveraging Cauchy interlace theorem – finally brainwave in 2019.
+
+== Improvement
+
+=== Communication
+
+* Management should communicate failures to org in blamefree, humourous style.
+** https://palladiummag.com/2020/07/15/the-political-machine-behind-the-apollo-program/[source] Bill Tindall: Widely circulated memos, referred to as Tindallgrams, which concisely and wittily described highly technical problems. His clear and witty writing style guaranteed high readership and kept everyone on the same page about issues/tasks.
+* Contact between creators and users makes creator care about their users.
+** https://palladiummag.com/2020/07/15/the-political-machine-behind-the-apollo-program/[source] Regular visits by astronauts to computing factories as a source of investment, making workers highly attached to the mission they were supporting. He recounts how the women who worked on a memory module forcefully argued for it to be discarded even though it passed all safety checks because it “wasn’t too good [for] one of our boys.” The quality discipline of Apollo for the broader computing industry persisted far beyond the project itself.
