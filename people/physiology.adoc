@@ -20,11 +20,7 @@
 
 = Lifespan
 
-Grandmother hypothesis: Grandmothers help * care for young. See Schultz’s graph on primate life:
-
-image:images/Society-culture1.png[alt_text,title="image_tooltip"]
-
-* (unproved) Grandparents are essential for social stability – respect elders because elders see social situations evolve and have perspective.
+* https://academic.oup.com/nutritionreviews/advance-article-abstract/doi/10.1093/nutrit/nuaa085/5907056[source] Moderate calorie restriction (CR), 11.9% on average, induced improvements in aging-related biomarkers without adversely affecting psychological or behavioral outcomes
 
 = Physiology
 
