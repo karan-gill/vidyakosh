@@ -22,7 +22,7 @@ Sometimes as part of the ``workarounds'' to make society function. Ex: TV fills 
 
 Idea: Global optimization of technological systems through owning the ecosystem allows significantly better outcomes.
 
-* [source] Apple solved the complexity of computer chip systems by integrating all chips in one to optimize globally: "the M1 chip takes a different approach. Instead of a collection of separate processing parts, it’s a single system on a chip (SoC). The SoC handles all of the computations, including graphics output, which means that each software instruction can use the most efficient part of the M1." As a result: "General performance of the M1 MacBook Air is 3.5 times faster than before, while graphics performance is five times faster, Apple says. On the M1 MacBook Pro, AI computation is 11 times faster than before, and Apple says that it can build code in the Xcode app up to 2.8 times faster."
+* https://medium.com/pcmag-access/what-is-the-apple-m1-chip-613935ea0903[source] Apple solved the complexity of computer chip systems by integrating all chips in one to optimize globally: "the M1 chip takes a different approach. Instead of a collection of separate processing parts, it’s a single system on a chip (SoC). The SoC handles all of the computations, including graphics output, which means that each software instruction can use the most efficient part of the M1." As a result: "General performance of the M1 MacBook Air is 3.5 times faster than before, while graphics performance is five times faster, Apple says. On the M1 MacBook Pro, AI computation is 11 times faster than before, and Apple says that it can build code in the Xcode app up to 2.8 times faster."
 
 == Human evolved for hunter-gatherer
 
