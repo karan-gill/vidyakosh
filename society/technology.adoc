@@ -1,12 +1,12 @@
-== Technology and Instability
+Technology and Instability
 
-=== xPsyche Humans & Technology
+= xPsyche Humans & Technology
 
 Technology fulfills human desires.
 
 Sometimes as part of the ``workarounds'' to make society function. Ex: TV fills our need for social connections so that we can continue to function in a world that no longer requires face-to-face interaction.
 
-=== Complexity
+= Complexity
 
 * Expensive typos: https://www.businessinsider.com/mistakes-and-typos-that-caused-disasters-2019-4
 * Hackers infiltrate software supply chains: https://arstechnica.com/information-technology/2019/05/a-mysterious-hacker-gang-is-on-a-supply-chain-hacking-spree/
@@ -18,13 +18,19 @@ Sometimes as part of the ``workarounds'' to make society function. Ex: TV fills 
 * 2019-06-16 – Target’s cash registers fail nationwide https://www.engadget.com/2019/06/16/target-cash-register-outage/[ref]
 * 2019-06-09 - https://www.engadget.com/honda-cyberattack-suspends-global-production-140545697.html[Cyberattack] forces Honda to suspend global production for a day
 
-=== Human evolved for hunter-gatherer
+== Global Optimization of Complexity
+
+Idea: Global optimization of technological systems through owning the ecosystem allows significantly better outcomes.
+
+* [source] Apple solved the complexity of computer chip systems by integrating all chips in one to optimize globally: "the M1 chip takes a different approach. Instead of a collection of separate processing parts, it’s a single system on a chip (SoC). The SoC handles all of the computations, including graphics output, which means that each software instruction can use the most efficient part of the M1." As a result: "General performance of the M1 MacBook Air is 3.5 times faster than before, while graphics performance is five times faster, Apple says. On the M1 MacBook Pro, AI computation is 11 times faster than before, and Apple says that it can build code in the Xcode app up to 2.8 times faster."
+
+== Human evolved for hunter-gatherer
 
 Lack of blue light = elongated eyeball = myopia
 
 Ref: Nature - The Myopia Boom
 
-=== Information Society & Internet
+= Information Society & Internet
 
 * The abstraction of the real world into bits
 * Privacy and security
@@ -36,7 +42,7 @@ Ref: Nature - The Myopia Boom
 ** Warfare is constant and low intensity. Internet anonymity allows waging war with impunity.
 *** China Cloud Hopper hackers were an elaborate operation that victimized multiple Western companies: Ericsson, Fujitsu, Tata Consultancy Services, NTT Data, Dimension Data, Computer Sciences Corporation and DXC Technology.
 
-=== Examples of Technological Complexity
+== Examples of Technological Complexity
 
 * Bees and neocorticoids
 * Food shortages due to global warming causing Arab spring
