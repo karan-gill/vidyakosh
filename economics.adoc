@@ -45,7 +45,7 @@ TODO: This document needs work.
 ** money needs state sovereignty to be ``credible and durable'' – which raises the question of what kind of state we’re talking about.
 ** Conglomerates of corporate entities, he adds, ``are only accountable to their shareholders and members''. Such conglomerates ``can hardly be seen as repositories of public trust or legitimate issuers of instruments with the attributes of “money''.
 
-== Money suppy + interest rates
+== Money supply + interest rates
 
 * LIBOR fixing scandal –
 ** banks were falsely inflating or deflating their rates so as to profit from trades, or to give the impression that they were more creditworthy than they were
@@ -53,11 +53,19 @@ TODO: This document needs work.
 
 == Bubbles
 
+TODO: Clean up the following points.
 * People borrow on expectation of returns.
 * If returns don’t materialize, you get default and bubble.
 * Central banks can print to inflate away debt and absorb bubble but that causes inflation.
 * A sector can be out of sync, such as housing or tech, because of sector-specific expectations of high returns.
 * Therefore, bubbles result from society processing information to arrive at incorrect predictions of the future. Recessions reconcile incorrect predictions with reality.
+
+* https://scholar.harvard.edu/files/shleifer/files/bffs_20170217.pdf[source]
+** Our broad conclusion is one that historians – particularly Kindleberger -- have reached already. There is much more to a bubble than a mere security price increase. There is innovation, displacement of existing firms, creation of new ones, and more generally a “paradigm shift” as entrepreneurs and investors rush toward a new Eldorado. Our contribution is to show that this shift is to some extent measurable in financial data.
+** we look at all episodes since 1928 in which stock prices of a US industry have increased over 100% in terms of both raw and net of market returns over the previous two years. We identify 40 such episodes in US data. We examine the characteristics of these portfolios as well as their performance going forward, just as Fama recommends. We then repeat the exercise for international sector portfolios between 1987 and 2013 to see if the US findings obtain out of sample.
+** a sharp price increase of an industry portfolio does not, on average, predict unusually low returns going forward. Average returns following a price run-up approximately match those of the broader market in the following two years, and are unremarkable in raw terms as well.
+** Health sector stocks rose by over 100% between April 1976 and April 1978, and continued going up by more than 65% per year on average in the next three years, not experiencing a significant drawdown until 1981.
+** sharp price increases do predict a heightened likelihood of a crash. More importantly, returns are in fact predictable, since there are other attributes of well-performing portfolios that in fact help distinguish portfolios that earn low and high returns going forward. Based on this information, there are times when one can call a bubble with some confidence.
 
 == Steady state
 
