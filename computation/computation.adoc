@@ -2,44 +2,20 @@
 
 Computation
 
-== Abstracting real-world
+= Abstracting real-world
 
 * The Matrix
 * Wired: Mirror world concept where things exist in cyberspace
 * Eve Online
 ** Battle of b-r5rb
 
-=== Simulations
+== Simulations
 
 * In a description, returns do not scale with description complexity. You have to make your description more and more complex to improve your description. Ultimately, you realize you need a simulation from first principles. Ex. using bisection to iteratively find a root.
 
-=== Incompleteness Theorems
+== Incompleteness Theorems
 
 * Incompleteness theorem has different manifestations in different fields.
 ** Price of anarchy
 ** Uncertainty principle
 ** Halting problem
-
-== Internet
-
-=== Thesis: What is the Internet
-
-The Internet is the abstraction of the physical world into the digital world. For example, you abstract a photograph into a JPG file, and transfer the file to your friend. You moved a physical object using bits.
-
-The digital world is more easily manipulated than the physical world. For example, you can convert that photo to black-and-white. In the real-world, the conversion is time and resource intensive.
-
-Therefore, digital manipulation of the world is advantageous. Organizations that digitize the world will prevail. Evolution will force entities and actions to migrate to the digital world as far as possible.
-
-The Internet reflects the latest change in how humans exchange information. See ``How Humans Evolve''.
-
-=== Real & Cyber Interactions
-
-* Incel community was founded as a positive support community but evolved into a angry, hate group. The original founder passed on the group, and had no idea what happened to it. She was aghast.
-* sotkc market flash crash
-* stuxnet
-* flash mobs
-* anonymous
-
-=== Game Theory of the Internet
-
-* internet defends itself, is alive - sopa example
