@@ -22,16 +22,19 @@ number of neurons.
 * https://www.cambridgebrainsciences.com/more/articles/how-superagers-maintain-cognitive-performance-into-their-80s[Superagers] – refers to an older adult whose cognitive performance is the same as a younger adult. Felicia Sun et al., published in the Journal of Neuroscience, looked at the neuroanatomy of older adults, and found that key regions of the brain had higher cortical thickness among superagers, compared to adults who aged normally. To become a superager, Lisa Feldman Barrett (one of the authors of the study above) speculates that it takes both physical and mental activity, and it has to be difficult.
 * ``engaging your child in conversation (versus just flooding them with exposure to words) is critical to language and brain development,'' – [https://www.inc.com/scott-mautz/harvard-mit-study-says-doing-1-simple-thing-is-almost-magical-for-your-childs-brain-development-success.html[popsci ref]] [https://journals.sagepub.com/doi/abs/10.1177/0956797617742725[paper]] – ``children who had experienced more conversational turns with adults exhibited greater left inferior frontal (Broca’s area) activation''
 
-== Imitation
+== Learning
+
+=== Formal Abstract Learning  vs. Demonstrative Contextual Learning
+
+* Also see Language > Oral vs. Written Language
+* https://www.researchgate.net/profile/Patricia_Greenfield/publication/18511965_Oral_or_Written_Language_the_Consequences_for_Cognitive_Development_in_Africa_the_United_States_and_England/links/5dfd5755299bf10bc36bbd55/Oral-or-Written-Language-the-Consequences-for-Cognitive-Development-in-Africa-the-United-States-and-England.pdf[source] 
+** In contrast, technical societies, possessing written languages, tend to develop systems of formal schooling, perhaps because school is needed to teach reading and writing and because the presence of written culture means that knowledge exceeds the bounds of what any one individual can know. Consequently, there develops, as Bruner (1965) puts it, “an economical technique of instructing the young based heavily on telling out of context rather than showing in context”, for what one talks about in school for the most part are things not immediately present. 
+
+=== Imitation
 
 *   https://unix.stackexchange.com/questions/1645/is-there-any-option-with-ls-command-that-i-see-only-the-directories[Source]
 There is vast agreement among ethologists that imitation, the capacity
 to learn to do an action from seeing it done (Thorndyke 1898), is
 present among primates, only in humans, and (probably) in apes (see
 Byrne 1995, Galef 1988, Tomasello & Call 1997, Visalberghi & Fragaszy
-2001, Whiten & Ham 1992).  Therefore, the primary function of mirror
-neurons cannot be action imitation. See secton on [Mirror Neurons].
-
-== Mirror Neurons
-
-No evidence exists for mirror neurons. Predictive coding provides an explanation for brain behavior that doesn't require mirror neurons. Predictive coding says that the brain is simulating what's going to happen, and that simulation explains the phenomena attributed to mirror neurons.
+2001, Whiten & Ham 1992).
