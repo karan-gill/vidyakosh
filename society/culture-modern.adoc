@@ -61,7 +61,9 @@ conformists
 
 == Trends
 
-* Culture is relatively to what came before, like sunglass fashion trends.
+* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0032541[source]
+** Realistic fashion-like dynamics emerge spontaneously if individuals can copy others' preferences for cultural traits as well as traits themselves.
+** Reproducing power-law frequency distributions of cultural traits (most traits are adopted by few individuals for a short time, and very few by many for a long time), as well as correlations between the rate of increase and the rate of decrease of traits (traits that increase rapidly in popularity are also abandoned quickly and vice versa).
 
 == Mating
 
