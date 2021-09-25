@@ -18,21 +18,8 @@
 *** Amos Tversky and Daniel Kahneman
 ** Patagonia+North Face: Mountain of Storms: Before they were magnates of the outdoors, Patagonia founder Yvon Chouinard and The North Face’s co-founder Doug Tompkins, in 1968, they and three friends — now-famous rock climber Chris Jones, U.S. ski/snowboard Hall of Famer Dick Dorworth, and Mountainfilm founder Lito Tejada-Flores — set off from San Francisco to Patagonia.
 ** Hao Huang proved sensitivity conjecture – https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/[ref] – Hao learned problem in 2012 and solved in 2019 – starting in 2013 he conjectured a new approach and thought about approach for 5 years – 2018 he had a brainwave about a leveraging Cauchy interlace theorem – finally brainwave in 2019.
-
-= Planning
-
-* The Mythical Man Month
-** Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1). This is true of reaping wheat or picking cotton; it is not even approximately true of systems programming.
-** The added burden of communication is made up of two parts, training and intercommunication. Each worker must be trained in the technology, the goals of the effort, the overall strategy, and the plan of work. This training cannot be partitioned, so this part of the added effort varies linearly with the number of workers.
-** Intercommunication is worse. If each part of the task must be separately coordinated with each other part, the effort increases as n(n-l)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two. If, moreover, there need to be conferences among three, four, etc., workers to resolve things jointly, matters get worse yet. The added effort of communicating may fully counteract the division of the original task and bring us to the situation of Fig. 2.4. (*Fig 2.4 shows in increase in time after a certain threshold of workers*)
-** One wants the system to be built by as few minds as possible.
-
-= Productivity
-
-* The Mythical Man Month
-** In one of their studies, Sackman, Erikson, and Grant were measuring performances of a group of experienced programmers. Within just this group the ratios between best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
-
-= Improvement
+* TMMM
+** The boss should not act on status reports. Doing so reduces the autonomy of reports and discourages honest status reports. If the boss needs to act, then act in a separate meeting/forum.
 
 == Communication
 
@@ -40,3 +27,52 @@
 ** https://palladiummag.com/2020/07/15/the-political-machine-behind-the-apollo-program/[source] Bill Tindall: Widely circulated memos, referred to as Tindallgrams, which concisely and wittily described highly technical problems. His clear and witty writing style guaranteed high readership and kept everyone on the same page about issues/tasks.
 * Contact between creators and users makes creator care about their users.
 ** https://palladiummag.com/2020/07/15/the-political-machine-behind-the-apollo-program/[source] Regular visits by astronauts to computing factories as a source of investment, making workers highly attached to the mission they were supporting. He recounts how the women who worked on a memory module forcefully argued for it to be discarded even though it passed all safety checks because it “wasn’t too good [for] one of our boys.” The quality discipline of Apollo for the broader computing industry persisted far beyond the project itself.
+
+= Planning
+
+* The Mythical Man Month
+** Resourcing
+** Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1). This is true of reaping wheat or picking cotton; it is not even approximately true of systems programming.
+** The added burden of communication is made up of two parts, training and intercommunication. Each worker must be trained in the technology, the goals of the effort, the overall strategy, and the plan of work. This training cannot be partitioned, so this part of the added effort varies linearly with the number of workers.
+** Scaling with Resources
+** Intercommunication is worse. If each part of the task must be separately coordinated with each other part, the effort increases as n(n-l)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two. If, moreover, there need to be conferences among three, four, etc., workers to resolve things jointly, matters get worse yet. The added effort of communicating may fully counteract the division of the original task and bring us to the situation of Fig. 2.4. (*Fig 2.4 shows in increase in time after a certain threshold of workers*)
+** One wants the system to be built by as few minds as possible.
+
+** Forecasting effort:
+*** Effort increases exponentially with program size.
+*** Do not assume that all time at work is work time.
+**  PERT chart shows dependencies, which shows how even a minor slippage affects the rest of the project.
+
+** Written specifications:
+*** Written by 1-2 people. Be consistent, explicit, and stick to what the user sees.
+*** Workbook: Everyone can access the complete specs
+
+** OKRs Should be sharply defined so that they're either 100% or not. Vaguely defined milestones lead to miscommunication and bad estimates.
+
+= Design
+
+Principles
+* The Mythical Man Month
+** "Fostering a total-system, user-oriented attitude may well be the most important function of the programming manager."
+** "Much more often, strategic breakthrough will come from redoing the representation of the data or tables. This is where the heart of your program lies. Show me your flowcharts and conceal your tables, and I shall be continued to be mystified. Show me your tables, and I won’t usually need your flowcharts; they’ll be obvious."
+ ** "Lean, spare, fast programs are almost always the result of strategic breakthrough rather than tactical cleverness. Sometimes the strategic breakthrough will be a new algorithm, such as the Cooley-Tukey Fast Fourier Transform or the substitution of an n log n sort for an n2 set of comparisons.
+
+Failure modes
+* The Mythical Man Month
+** Second system effect:
+*** Adding little by little till it becomes the software becomes a pile
+*** Refining techniques whose assumptions are no longer true
+
+Organization
+* The Mythical Man Month
+** Each team should have a producer and technical architect, where the producer manages the schedule and resourcing, while the technical architect designs the system.
+** "The techniques of communication and organization demand from the manager much thought and as much experienced competence as the software technology itself."
+
+Tools
+* The Mythical Man Month
+** Every project needs a notebook full of good subroutines or macros for queuing, searching, hashing, and sorting. For each such function the notebook should have at least two programs, the quick and the squeezed.
+
+= Productivity
+
+* The Mythical Man Month
+** In one of their studies, Sackman, Erikson, and Grant were measuring performances of a group of experienced programmers. Within just this group the ratios between best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
