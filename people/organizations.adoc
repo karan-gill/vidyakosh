@@ -1,29 +1,40 @@
 :toc: toc::[]
 
-== Leaders, Politicians, Dictators
+= Leaders, Politicians, Dictators
 
-=== Politicians Managing Reputations
+== Politicians Managing Reputations
 
 * https://twitter.com/AdamBienkov/status/1143585761842933760[dead cat maneuver]: if you’ve been caught out doing something terrible, just throw a dead cat in the middle of the dining room table. People will still be angry at you, but they’ll be angry at you about the dead cat, not about the thing you were trying to bury. For example: Prior to the model-bus interview, if you googled ``boris johnson bus'' you would learn about https://boingboing.net/2017/07/05/referendumb.html[Johnson’s infamous ``Brexit Battle Bus''] which was driven around the UK in the runup to the Brexit vote. Today, the results are a mix of stories about the model bus hobby and the Brexit bus (as well as stories about whether this was a media manipulation gambit). This is such a brilliant example of political search engine optimization that it’s hard to believe someone as buffoonish as Johnson would be capable of pulling it off intentionally.
 
-=== Organizational Trust
-
-== Innovation & Decision Making
+= Innovation & Decision Making
 
 * Peer pressure speeds decision making: PP can overcome barriers imposed upon a consensus by the existence of tightly connected communities with local leaders or the existence of leaders with poor cohesiveness of opinions. A moderate level of PP is also necessary to explain the rate at which innovations diffuse through a variety of social groups. How Peer Pressure Shapes Consensus, Leadership, and Innovations in Social Groups https://www.nature.com/articles/srep02905?WT.ec_id=SREP-20131015
-* Tight groups of deep domain knowledge, messing around, obsession
+* Tight groups of deep domain knowledge, experimenting, obsession
 ** Homebrew computer club
 ** Fairchildt five
-** Dirac on quantum mechanics – we were just messing around
+** Dirac on quantum mechanics – we were just experimenting
 ** Groups of two
 *** Jeff Dean and Sanjay Ghemawat,
 *** Amos Tversky and Daniel Kahneman
 ** Patagonia+North Face: Mountain of Storms: Before they were magnates of the outdoors, Patagonia founder Yvon Chouinard and The North Face’s co-founder Doug Tompkins, in 1968, they and three friends — now-famous rock climber Chris Jones, U.S. ski/snowboard Hall of Famer Dick Dorworth, and Mountainfilm founder Lito Tejada-Flores — set off from San Francisco to Patagonia.
 ** Hao Huang proved sensitivity conjecture – https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/[ref] – Hao learned problem in 2012 and solved in 2019 – starting in 2013 he conjectured a new approach and thought about approach for 5 years – 2018 he had a brainwave about a leveraging Cauchy interlace theorem – finally brainwave in 2019.
 
-== Improvement
+= Planning
 
-=== Communication
+* The Mythical Man Month
+** Men and months are interchangeable commodities only when a task can be partitioned among many workers with no communication among them (Fig. 2.1). This is true of reaping wheat or picking cotton; it is not even approximately true of systems programming.
+** The added burden of communication is made up of two parts, training and intercommunication. Each worker must be trained in the technology, the goals of the effort, the overall strategy, and the plan of work. This training cannot be partitioned, so this part of the added effort varies linearly with the number of workers.
+** Intercommunication is worse. If each part of the task must be separately coordinated with each other part, the effort increases as n(n-l)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two. If, moreover, there need to be conferences among three, four, etc., workers to resolve things jointly, matters get worse yet. The added effort of communicating may fully counteract the division of the original task and bring us to the situation of Fig. 2.4. (*Fig 2.4 shows in increase in time after a certain threshold of workers*)
+** One wants the system to be built by as few minds as possible.
+
+= Productivity
+
+* The Mythical Man Month
+** In one of their studies, Sackman, Erikson, and Grant were measuring performances of a group of experienced programmers. Within just this group the ratios between best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+
+= Improvement
+
+== Communication
 
 * Management should communicate failures to org in blamefree, humourous style.
 ** https://palladiummag.com/2020/07/15/the-political-machine-behind-the-apollo-program/[source] Bill Tindall: Widely circulated memos, referred to as Tindallgrams, which concisely and wittily described highly technical problems. His clear and witty writing style guaranteed high readership and kept everyone on the same page about issues/tasks.
