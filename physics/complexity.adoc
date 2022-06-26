@@ -58,7 +58,8 @@
 *** The solution was MCAS, which ordered the stabilizer to push down the nose if the ``angle of attack'' — or angle that air flows over the wings — got too high. The MCAS depends on data from two sensors.
 ** The software erroneously thought the aircraft was at risk of losing lift and stalling — because of a malfunctioning sensor — and ordered the stabilizer at the rear to put it into a series of sharp dives that ultimately caused the plane to crash into the Java Sea.
 * Evolution: Evolution backs iteslf into corners, called ``kludges''. For example, our spine evolves for horizontal orientation in 4 legged animals, not vertical orientation. Hence, humans experience back pain. In another example, teeth evolved to be temporary and then became permanent, but we still preserve the nerves and suffer toothaches are a result.
-* Revolutions in societies
+* Revolutions in societies -- When a society gets so complex that it can no longer evolve, then a revolution occurs to allow the society to start anew.
+* Cavendish banana -- Cavendish bananas a banana cultivars. They are unable to reproduce sexually, instead being propagated via identical clones. Due to this, the genetic diversity of the Cavendish banana is very low. The extreme lack of any biodiversity and the fact the Cavendish is planted in dense chunks in a monoculture without any other natural species or plants buffering them, means the Cavendish is extremely vulnerable to disease, fungal outbreaks, and genetic mutation possibly leading to eventual commercial extinction.
 
 === Systems of Complex Agents (like Society)
 
